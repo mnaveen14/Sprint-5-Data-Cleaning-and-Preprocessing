@@ -1,0 +1,1011 @@
+Employee_ID,Name,Age,Gender,Department,Job_Role,Salary,Experience_Years,Joining_Date,Performance_Score,City,Employment_Status
+EMP1630,Employee_630,41,Male,HR,Accountant,57088.0,16.0,2017-04-29,6,Bangalore,Active
+EMP1789,Employee_789,40,Female,Sales,Sales Executive,49417.0,8.0,2017-02-09,7,Bangalore,Active
+EMP1685,Employee_685,31,Female,IT,Manager,107736.0,10.0,2019-06-23,5,Mumbai,Resigned
+EMP1517,Employee_517,55,Male,Operations,Developer,117268.0,8.0,2015-01-29,6,Bangalore,Active
+EMP1530,Employee_530,29,Female,Marketing,Accountant,49618.0,18.0,2020-12-09,10,Coimbatore,Resigned
+EMP1658,Employee_658,29,Male,Sales,Developer,37360.0,5.0,2021-03-30,5,Chennai,Active
+EMP1553,Employee_553,39,Female,Sales,Sales Executive,83002.0,20.0,2015-08-14,4,Bangalore,Active
+EMP1532,Employee_532,22,Female,IT,Developer,43919.0,4.0,2015-06-24,10,Coimbatore,Active
+EMP1322,Employee_322,37,Male,Marketing,Accountant,45313.0,7.0,2020-02-16,7,Hyderabad,Active
+EMP1071,Employee_71,36,Female,IT,Developer,79336.0,13.0,2024-12-08,2,Coimbatore,Active
+EMP1838,Employee_838,31,Female,Marketing,Developer,27591.0,16.0,2025-11-08,4,Chennai,Resigned
+EMP1454,Employee_454,49,Male,Finance,Manager,30141.0,10.0,2019-11-07,1,Coimbatore,Active
+EMP1997,Employee_997,48,Male,IT,Sales Executive,58402.0,0.0,2025-01-11,2,Chennai,Active
+EMP1669,Employee_669,59,Male,Operations,Accountant,-10000.0,18.0,2020-10-24,8,Pune,Active
+EMP1248,Employee_248,58,Male,Marketing,Accountant,88064.0,20.0,2019-07-11,1,Bangalore,Active
+EMP1614,Employee_614,49,Female,Operations,Developer,119776.0,7.0,2020-07-24,4,Mumbai,Resigned
+EMP1845,Employee_845,39,Male,Finance,Manager,109774.0,14.0,2022-12-30,5,Pune,Active
+EMP1705,Employee_705,30,Male,HR,Analyst,85686.0,2.0,2021-04-02,5,Coimbatore,Active
+EMP1299,Employee_299,44,Male,Marketing,HR Executive,30722.0,15.0,2023-08-31,7,Pune,Active
+EMP1102,Employee_102,44,Male,Marketing,Manager,110179.0,7.0,2017-07-24,6,Chennai,On Leave
+EMP1903,Employee_903,39,Female,,Manager,40534.0,3.0,2021-05-03,2,Chennai,Active
+EMP1920,Employee_920,53,Female,HR,Accountant,35799.0,,2019-11-17,4,Chennai,Resigned
+EMP1214,Employee_214,53,Male,Operations,Accountant,90101.0,10.0,2022-10-24,9,Coimbatore,Active
+EMP1238,Employee_238,39,Male,HR,Manager,84234.0,4.0,2024-04-11,2,Mumbai,Resigned
+EMP1596,Employee_596,44,Male,Finance,Sales Executive,51049.0,1.0,2018-09-04,7,Hyderabad,Active
+EMP1282,Employee_282,54,Male,IT,Accountant,102960.0,3.0,2017-07-09,2,Bangalore,Active
+EMP1871,Employee_871,57,Male,Finance,Analyst,86934.0,15.0,2023-12-25,5,Hyderabad,Active
+EMP1287,Employee_287,53,Male,Sales,Manager,94119.0,17.0,2023-11-10,10,Bangalore,Resigned
+EMP1923,Employee_923,53,Female,Sales,Accountant,95463.0,16.0,2017-03-01,8,Bangalore,Resigned
+EMP1888,Employee_888,55,Male,Finance,HR Executive,46113.0,18.0,2017-07-26,9,Mumbai,On Leave
+EMP1465,Employee_465,41,Male,Finance,Sales Executive,72135.0,4.0,2016-12-22,7,Coimbatore,Resigned
+EMP1797,Employee_797,54,Male,HR,Sales Executive,66094.0,10.0,2020-06-06,2,Pune,Active
+EMP1097,Employee_97,28,Female,HR,Manager,79131.0,15.0,2016-04-20,9,Hyderabad,Active
+EMP1245,Employee_245,31,Female,IT,Analyst,30451.0,13.0,2022-05-23,5,Mumbai,Active
+EMP1890,Employee_890,21,Female,HR,Analyst,68939.0,5.0,2024-04-24,7,Coimbatore,On Leave
+EMP1077,Employee_77,35,Male,HR,HR Executive,51672.0,20.0,2018-08-26,2,Mumbai,Active
+EMP1902,Employee_902,25,Female,HR,Manager,33328.0,4.0,2018-02-14,5,Bangalore,Resigned
+EMP1210,Employee_210,39,Male,IT,Sales Executive,69605.0,16.0,2022-06-06,8,Bangalore,On Leave
+EMP1260,Employee_260,36,Male,Operations,Manager,500000.0,1.0,2020-12-03,7,Coimbatore,Active
+EMP1159,Employee_159,47,Male,Sales,HR Executive,58870.0,4.0,2022-07-19,10,Bangalore,On Leave
+EMP1740,Employee_740,26,Female,Finance,Accountant,37625.0,7.0,2025-10-29,5,Coimbatore,Active
+EMP1433,Employee_433,32,Male,Operations,Sales Executive,70475.0,14.0,2017-06-23,10,Pune,On Leave
+EMP1332,Employee_332,33,Female,Marketing,Analyst,76313.0,18.0,2024-03-31,3,Pune,Active
+EMP1957,Employee_957,56,Female,Sales,Sales Executive,50963.0,2.0,2023-01-12,8,Bangalore,Active
+EMP1315,Employee_315,52,Male,Operations,Accountant,117764.0,9.0,2016-02-26,7,Bangalore,Active
+EMP1295,Employee_295,49,Female,HR,HR Executive,109289.0,7.0,2016-12-20,2,Bangalore,Resigned
+EMP1383,Employee_383,60,Male,it,Sales Executive,45954.0,16.0,2017-07-30,2,Mumbai,Active
+EMP1389,Employee_389,49,Male,IT,Analyst,105578.0,0.0,2025-03-30,4,Coimbatore,Active
+EMP1576,Employee_576,56,Male,Finance,Developer,78747.0,20.0,2025-09-22,6,Mumbai,Active
+EMP1880,Employee_880,50,Male,Sales,Manager,95293.0,3.0,2017-02-26,1,Bangalore,Active
+EMP1443,Employee_443,30,Female,Operations,HR Executive,38156.0,0.0,2015-09-28,1,Coimbatore,Active
+EMP1722,Employee_722,28,Female,IT,Manager,115480.0,5.0,2017-07-07,6,Coimbatore,Active
+EMP1060,Employee_60,54,Female,Sales,Sales Executive,43135.0,18.0,2020-07-07,3,Bangalore,Active
+EMP1679,Employee_679,43,Male,Operations,Analyst,80276.0,2.0,2016-11-22,10,Hyderabad,On Leave
+EMP1371,Employee_371,48,Female,Sales,Analyst,33275.0,16.0,2018-12-07,10,Chennai,Resigned
+EMP1483,Employee_483,43,Female,HR,Developer,27800.0,18.0,2015-05-24,5,Coimbatore,Active
+EMP1382,Employee_382,45,Male,HR,Accountant,118688.0,17.0,2015-10-31,5,Hyderabad,On Leave
+EMP1055,Employee_55,26,Female,IT,Analyst,52747.0,15.0,2022-06-01,1,Bangalore,Resigned
+EMP1024,Employee_24,32,Male,Marketing,Accountant,30842.0,2.0,2021-06-19,6,Pune,Resigned
+EMP1031,Employee_31,23,Male,Sales,HR Executive,105742.0,16.0,2018-12-14,7,Chennai,Active
+EMP1881,Employee_881,51,Male,Marketing,Sales Executive,103581.0,19.0,2020-10-27,8,Pune,Active
+EMP1431,Employee_431,40,Male,Finance,Manager,110029.0,19.0,2015-06-04,10,Pune,Active
+EMP1011,Employee_11,44,Female,HR,Analyst,119230.0,8.0,2020-12-12,6,Coimbatore,Active
+EMP1657,Employee_657,34,Female,Sales,Manager,28849.0,5.0,2019-10-18,2,Coimbatore,Active
+EMP1814,Employee_814,31,Male,Finance,Accountant,50500.0,20.0,2015-12-11,1,Hyderabad,Active
+EMP1484,Employee_484,45,Male,Operations,Manager,67712.0,5.0,2020-03-01,3,Pune,On Leave
+EMP1544,Employee_544,24,Female,Sales,Sales Executive,95533.0,17.0,2020-08-18,6,Hyderabad,On Leave
+EMP1200,Employee_200,29,Female,Operations,Sales Executive,72562.0,14.0,2017-11-09,3,Pune,On Leave
+EMP1502,Employee_502,39,Female,Finance,Developer,,13.0,2023-07-22,6,Hyderabad,Active
+EMP1941,Employee_941,49,Male,Sales,Analyst,75940.0,0.0,2015-07-28,4,Mumbai,Active
+EMP1108,Employee_108,55,Female,Operations,Sales Executive,68791.0,10.0,2023-12-17,1,Mumbai,Active
+EMP1219,Employee_219,21,Male,HR,Developer,92293.0,19.0,2023-01-28,3,Mumbai,Resigned
+EMP1926,Employee_926,60,Male,Operations,Manager,62158.0,13.0,2020-01-30,6,Chennai,Active
+EMP1175,Employee_175,22,Female,Operations,Developer,85614.0,20.0,2016-10-14,10,Hyderabad,Active
+EMP1724,Employee_724,60,Male,IT,Analyst,26134.0,17.0,2018-03-27,3,Bangalore,Resigned
+EMP1882,Employee_882,25,Female,Finance,Developer,89925.0,19.0,2019-08-09,1,Pune,Resigned
+EMP1934,Employee_934,35,Female,HR,Accountant,55009.0,6.0,2017-01-04,3,Hyderabad,Active
+EMP1395,Employee_395,42,Male,Finance,Developer,87433.0,17.0,2021-03-19,3,Mumbai,Resigned
+EMP1040,Employee_40,34,Male,Finance,Developer,99619.0,11.0,2025-12-14,6,Hyderabad,Active
+EMP1834,Employee_834,50,Female,Sales,Sales Executive,51489.0,11.0,2019-01-02,2,Coimbatore,Active
+EMP1774,Employee_774,58,Male,Marketing,Manager,37855.0,8.0,2019-04-10,5,Hyderabad,Active
+EMP1352,Employee_352,26,Female,Marketing,Analyst,81575.0,7.0,2023-11-24,9,Pune,Active
+EMP1067,Employee_67,34,Male,Sales,Developer,110140.0,2.0,2025-01-18,2,Bangalore,Active
+EMP1278,Employee_278,58,Male,Marketing,Developer,118783.0,7.0,2017-01-16,5,Pune,Active
+EMP1068,Employee_68,43,Female,HR,Manager,41923.0,0.0,2023-10-19,6,Mumbai,Resigned
+EMP1911,Employee_911,28,Female,HR,Sales Executive,250000.0,3.0,2016-10-14,5,Hyderabad,On Leave
+EMP1440,Employee_440,21,Female,Finance,Sales Executive,82649.0,8.0,2017-01-16,10,Coimbatore,Active
+EMP1737,Employee_737,48,Female,Sales,Analyst,108104.0,9.0,2023-03-07,8,Chennai,Active
+EMP1297,Employee_297,55,Male,IT,Accountant,68463.0,2.0,2024-07-17,10,Hyderabad,Active
+EMP1621,Employee_621,22,Male,Finance,Developer,50917.0,20.0,2024-08-04,2,Bangalore,Active
+EMP1491,Employee_491,33,Male,Marketing,HR Executive,32263.0,16.0,2019-07-13,5,Chennai,Active
+EMP1820,Employee_820,51,Female,Operations,Accountant,60436.0,,2016-12-23,1,Bangalore,Active
+EMP1559,Employee_559,48,Female,HR,Analyst,81408.0,19.0,2018-12-22,10,Bangalore,Active
+EMP1425,Employee_425,44,Female,Operations,Analyst,82727.0,19.0,2020-09-11,4,Mumbai,Active
+EMP1925,Employee_925,34,Male,HR,Manager,101700.0,15.0,2020-01-06,7,Chennai,Active
+EMP1313,Employee_313,60,Male,Sales,HR Executive,92712.0,16.0,2015-09-01,10,Pune,On Leave
+EMP1185,Employee_185,52,Female,HR,Analyst,99218.0,0.0,2025-09-30,8,Bangalore,Active
+EMP1333,Employee_333,27,Female,Operations,Sales Executive,88232.0,6.0,2017-01-11,8,Coimbatore,Active
+EMP1089,Employee_89,55,Female,Marketing,Manager,67965.0,4.0,2021-03-03,7,Mumbai,On Leave
+EMP1064,Employee_64,51,Male,Sales,HR Executive,87491.0,14.0,2017-06-30,4,Hyderabad,Active
+EMP1835,Employee_835,58,Male,IT,Manager,39387.0,12.0,2018-11-26,5,Pune,Active
+EMP1577,Employee_577,55,Female,HR,Sales Executive,62327.0,2.0,2023-03-04,6,Mumbai,Resigned
+EMP1216,Employee_216,59,Female,IT,HR Executive,68309.0,11.0,2016-03-02,3,Hyderabad,On Leave
+EMP1616,Employee_616,55,Male,HR,HR Executive,79845.0,14.0,2023-02-17,7,Bangalore,Resigned
+EMP1514,Employee_514,34,Female,Marketing,HR Executive,50675.0,3.0,2018-09-24,7,Hyderabad,Active
+EMP1291,Employee_291,55,Male,Finance,Developer,49532.0,13.0,2017-03-08,4,Bangalore,Active
+EMP1378,Employee_378,21,Male,Marketing,Sales Executive,119319.0,3.0,2021-04-26,1,Coimbatore,Resigned
+EMP1892,Employee_892,42,Male,Operations,Analyst,71313.0,14.0,2018-01-23,5,Bangalore,On Leave
+EMP1970,Employee_970,56,Female,Finance,Developer,59872.0,7.0,2016-01-19,10,Mumbai,Resigned
+EMP1947,Employee_947,24,Male,Marketing,Sales Executive,72897.0,9.0,2022-12-28,1,Coimbatore,Active
+EMP1787,Employee_787,37,Male,Sales,Analyst,72195.0,9.0,2022-11-21,1,Chennai,Active
+EMP1426,Employee_426,36,Female,IT,HR Executive,63578.0,9.0,2020-06-16,8,Hyderabad,Active
+EMP1697,Employee_697,53,Female,IT,Accountant,107289.0,3.0,2022-06-02,4,Hyderabad,Active
+EMP1996,Employee_996,28,Female,Finance,Sales Executive,70276.0,1.0,2019-10-22,1,Mumbai,Active
+EMP1310,Employee_310,45,Male,HR,Developer,44702.0,18.0,2023-11-27,7,Mumbai,On Leave
+EMP1087,Employee_87,37,Male,Sales,Accountant,43199.0,7.0,2022-09-16,6,Pune,Active
+EMP1732,Employee_732,52,Male,HR,Developer,35442.0,5.0,2015-11-09,6,Bangalore,Active
+EMP1756,Employee_756,21,Female,Finance,Developer,107522.0,18.0,2025-08-06,7,Bangalore,Active
+EMP1311,Employee_311,51,Male,Marketing,Sales Executive,50242.0,11.0,2022-03-08,7,Mumbai,Active
+EMP1539,Employee_539,21,Male,Finance,Analyst,104747.0,8.0,2025-10-01,3,Chennai,Active
+EMP1137,Employee_137,52,Male,Sales,HR Executive,75124.0,14.0,2024-11-12,2,Hyderabad,Active
+EMP1959,Employee_959,35,Male,IT,Accountant,97309.0,2.0,2018-04-30,6,Hyderabad,Active
+EMP2000,Employee_1000,49,Female,IT,Manager,104698.0,1.0,2019-04-27,2,Chennai,Active
+EMP1729,Employee_729,23,Male,Sales,Sales Executive,46869.0,10.0,2024-09-04,10,Mumbai,Active
+EMP1262,Employee_262,53,Male,Operations,Manager,80745.0,17.0,2015-09-17,7,Mumbai,On Leave
+EMP1548,Employee_548,39,Female,Operations,Sales Executive,43624.0,15.0,2017-10-13,9,Hyderabad,Active
+EMP1169,Employee_169,59,Female,Marketing,Accountant,80835.0,13.0,2015-08-31,10,Chennai,Active
+EMP1791,Employee_791,24,Female,IT,Manager,35751.0,2.0,2025-10-31,4,Mumbai,Resigned
+EMP1449,Employee_449,55,Male,IT,Analyst,114272.0,0.0,2015-10-01,4,Coimbatore,Active
+EMP1140,Employee_140,48,Female,IT,HR Executive,89110.0,,invalid_date,1,Mumbai,On Leave
+EMP1686,Employee_686,59,Male,Marketing,Analyst,90618.0,17.0,2019-06-22,5,Hyderabad,Resigned
+EMP1667,Employee_667,51,Female,Sales,Accountant,99816.0,11.0,2024-02-29,3,Bangalore,Active
+EMP1858,Employee_858,23,Male,Sales,Manager,101240.0,14.0,2019-11-15,10,Bangalore,Resigned
+EMP1519,Employee_519,49,Female,IT,HR Executive,78312.0,15.0,2015-02-04,2,Chennai,On Leave
+EMP1679,Employee_679,43,Male,Operations,Analyst,80276.0,2.0,2016-11-22,10,Hyderabad,On Leave
+EMP1534,Employee_534,49,Male,HR,Accountant,51400.0,15.0,2019-09-11,6,Bangalore,Active
+EMP1056,Employee_56,24,Female,Operations,Sales Executive,101396.0,16.0,2023-09-11,3,Pune,Active
+EMP1121,Employee_121,35,Male,HR,Manager,118574.0,12.0,2020-10-20,5,Bangalore,Active
+EMP1531,Employee_531,47,Female,HR,Accountant,300000.0,2.0,2015-12-06,2,Chennai,On Leave
+EMP1026,Employee_26,45,Male,Marketing,Manager,91852.0,18.0,2018-03-19,7,Hyderabad,Active
+EMP1073,Employee_73,44,Male,HR,Sales Executive,85948.0,3.0,2024-11-07,7,Pune,Active
+EMP1045,Employee_45,48,Male,Finance,Analyst,52364.0,7.0,2021-05-30,7,Pune,Active
+EMP1250,Employee_250,40,Female,Marketing,Developer,63870.0,16.0,2015-02-15,5,Hyderabad,On Leave
+EMP1405,Employee_405,46,Female,HR,Analyst,32415.0,15.0,2016-03-17,3,Pune,Active
+EMP1848,Employee_848,40,Male,Finance,HR Executive,48408.0,15.0,2022-02-11,2,Mumbai,Active
+EMP1704,Employee_704,24,Male,Marketing,Manager,119574.0,1.0,2022-11-27,7,Chennai,Active
+EMP1919,Employee_919,35,Male,Marketing,HR Executive,57972.0,19.0,2023-10-07,4,Bangalore,Active
+EMP1199,Employee_199,53,Female,Sales,Developer,30939.0,10.0,2015-05-17,8,Bangalore,Active
+EMP1543,Employee_543,45,Male,HR,Accountant,110842.0,1.0,2024-10-07,2,Bangalore,On Leave
+EMP1356,Employee_356,28,Male,Operations,Analyst,47626.0,20.0,2024-10-31,1,Pune,On Leave
+EMP1324,Employee_324,53,Male,Marketing,HR Executive,78521.0,20.0,2023-05-15,2,Coimbatore,Resigned
+EMP1650,Employee_650,57,Male,Sales,Sales Executive,51990.0,5.0,2018-08-25,5,Mumbai,Resigned
+EMP1917,Employee_917,53,Male,Operations,Manager,37207.0,20.0,2021-06-13,6,Pune,Active
+EMP1236,Employee_236,29,Female,Marketing,Developer,53328.0,18.0,2015-09-24,3,Coimbatore,Active
+EMP1581,Employee_581,34,Male,HR,HR Executive,112051.0,17.0,2021-01-27,6,Chennai,Active
+EMP1950,Employee_950,30,male,Sales,HR Executive,67056.0,18.0,2024-06-08,2,Hyderabad,On Leave
+EMP1944,Employee_944,57,Male,Marketing,Sales Executive,61468.0,9.0,2022-06-05,2,Mumbai,Active
+EMP1908,Employee_908,45,Female,Operations,Developer,105201.0,8.0,2025-11-24,1,Mumbai,Active
+EMP1300,Employee_300,49,Female,HR,Accountant,52413.0,16.0,2016-11-15,6,Mumbai,On Leave
+EMP1061,Employee_61,30,Male,Marketing,Accountant,115887.0,17.0,2025-05-17,4,Coimbatore,Active
+EMP1328,Employee_328,46,Female,Finance,Accountant,107612.0,8.0,2019-01-04,1,Coimbatore,Resigned
+EMP1932,Employee_932,27,Male,Operations,Manager,40810.0,20.0,2015-06-28,1,Mumbai,Active
+EMP1602,Employee_602,28,Female,Marketing,HR Executive,71163.0,11.0,2019-08-23,4,Hyderabad,Active
+EMP1448,Employee_448,22,Female,Marketing,Sales Executive,41589.0,11.0,2015-06-21,4,Bangalore,Resigned
+EMP1830,Employee_830,31,Male,Finance,Sales Executive,46225.0,6.0,2023-02-25,7,Coimbatore,Active
+EMP1651,Employee_651,57,Female,IT,Sales Executive,41193.0,4.0,2022-01-29,3,Pune,Active
+EMP1599,Employee_599,48,Male,Operations,Analyst,32846.0,18.0,2021-02-04,2,Chennai,Active
+EMP1545,Employee_545,56,Female,HR,Manager,81184.0,19.0,2025-09-04,8,Hyderabad,Active
+EMP1785,Employee_785,46,Female,Finance,HR Executive,30668.0,9.0,2018-01-03,7,Mumbai,On Leave
+EMP1306,Employee_306,43,Female,HR,Accountant,37297.0,8.0,2021-08-02,2,Mumbai,Resigned
+EMP1319,Employee_319,47,Male,Finance,Sales Executive,34171.0,12.0,2024-10-01,6,Chennai,Resigned
+EMP1761,Employee_761,34,Female,Marketing,HR Executive,114160.0,19.0,2025-08-20,9,Chennai,On Leave
+EMP1495,Employee_495,39,Female,Operations,Manager,116118.0,19.0,2016-03-04,10,Coimbatore,Resigned
+EMP1266,Employee_266,41,Male,IT,Sales Executive,110132.0,14.0,2020-08-16,3,Coimbatore,Resigned
+EMP1111,Employee_111,57,Male,Operations,Developer,102403.0,15.0,2019-03-15,2,Pune,Active
+EMP1694,Employee_694,47,male,Marketing,Analyst,55981.0,15.0,2018-09-28,7,Bangalore,Resigned
+EMP1945,Employee_945,47,Female,Operations,Analyst,55698.0,6.0,2023-06-12,4,Chennai,On Leave
+EMP1528,Employee_528,33,Female,IT,Developer,66328.0,7.0,2017-06-22,7,Pune,On Leave
+EMP1257,Employee_257,38,Male,Operations,HR Executive,59064.0,17.0,2016-01-16,1,Pune,Resigned
+EMP1261,Employee_261,56,Male,Finance,Accountant,93431.0,19.0,2025-02-18,5,Chennai,Active
+EMP1635,Employee_635,33,Female,it,HR Executive,101361.0,16.0,2022-10-31,10,Hyderabad,Active
+EMP1824,Employee_824,44,Female,Marketing,Manager,107722.0,12.0,2019-03-03,4,Bangalore,Resigned
+EMP1430,Employee_430,-5,Male,HR,Sales Executive,102787.0,0.0,2017-05-11,9,Coimbatore,On Leave
+EMP1631,Employee_631,46,Male,IT,Manager,104650.0,16.0,2016-01-02,2,Bangalore,Active
+EMP1381,Employee_381,52,Male,IT,Developer,85315.0,9.0,2024-12-01,4,Hyderabad,On Leave
+EMP1434,Employee_434,55,Female,Marketing,Developer,85142.0,0.0,2018-06-23,8,Hyderabad,On Leave
+EMP1735,Employee_735,25,Female,Sales,HR Executive,78053.0,3.0,2020-02-26,1,Mumbai,Active
+EMP1138,Employee_138,27,Male,Operations,Manager,77870.0,10.0,2019-05-01,7,Mumbai,Resigned
+EMP1358,Employee_358,59,Male,Sales,Accountant,101057.0,2.0,2017-07-08,8,Hyderabad,Resigned
+EMP1529,Employee_529,60,Female,HR,Manager,95482.0,9.0,2022-01-11,4,Pune,Resigned
+EMP1222,Employee_222,45,Female,HR,Manager,91652.0,16.0,2017-01-11,2,Mumbai,Active
+EMP1757,Employee_757,28,Male,Finance,Sales Executive,58458.0,4.0,2022-01-24,2,Pune,Active
+EMP1597,Employee_597,48,Female,Finance,Accountant,102789.0,0.0,2019-01-04,8,Bangalore,Active
+EMP1560,Employee_560,28,Male,Marketing,Manager,94267.0,5.0,2020-08-10,6,Chennai,On Leave
+EMP1364,Employee_364,60,Female,HR,Developer,70607.0,7.0,2018-07-30,9,Mumbai,On Leave
+EMP1526,Employee_526,58,Female,Operations,Developer,98155.0,8.0,2023-10-24,3,Bangalore,Active
+EMP1209,Employee_209,23,Male,Marketing,Analyst,89805.0,4.0,2019-12-08,1,Hyderabad,On Leave
+EMP1412,Employee_412,43,Female,Marketing,HR Executive,62544.0,13.0,2023-07-13,1,Bangalore,Active
+EMP1335,Employee_335,40,Female,HR,Sales Executive,49729.0,15.0,2017-03-30,1,Pune,Active
+EMP1211,Employee_211,40,Male,Marketing,HR Executive,109565.0,5.0,2017-12-01,7,Chennai,Resigned
+EMP1351,Employee_351,42,Male,IT,Analyst,103532.0,6.0,2021-11-30,6,Chennai,On Leave
+EMP1079,Employee_79,45,Female,Sales,Developer,35293.0,14.0,2016-07-09,8,Mumbai,Active
+EMP1030,Employee_30,35,Female,it,Manager,79575.0,5.0,2019-09-05,6,Chennai,Active
+EMP1281,Employee_281,47,Female,Marketing,Analyst,52691.0,16.0,2016-06-21,3,Coimbatore,Active
+EMP1586,Employee_586,36,Male,Operations,Accountant,91960.0,10.0,2023-06-24,8,Coimbatore,On Leave
+EMP1753,Employee_753,37,Female,Finance,Accountant,25869.0,3.0,2015-09-02,8,Chennai,On Leave
+EMP1781,Employee_781,59,Female,IT,Analyst,74831.0,1.0,2023-05-27,8,Mumbai,On Leave
+EMP1290,Employee_290,24,Female,Finance,Analyst,44710.0,10.0,2024-11-27,1,Bangalore,Active
+EMP1166,Employee_166,52,Female,Operations,Sales Executive,99707.0,9.0,2023-08-11,1,Mumbai,On Leave
+EMP1606,Employee_606,56,Female,Sales,Analyst,100277.0,8.0,2023-04-28,4,Hyderabad,On Leave
+EMP1875,Employee_875,31,Male,IT,Developer,111465.0,12.0,2020-03-27,8,Bangalore,Active
+EMP1721,Employee_721,36,Female,Marketing,Manager,35278.0,9.0,2025-10-21,4,Mumbai,Active
+EMP1066,Employee_66,28,Male,Sales,HR Executive,83283.0,5.0,2023-05-11,2,Pune,On Leave
+EMP1142,Employee_142,26,Female,Sales,Developer,45936.0,4.0,2020-10-06,7,Chennai,Active
+EMP1276,Employee_276,50,Female,Sales,Sales Executive,56312.0,10.0,2024-10-09,1,Chennai,Resigned
+EMP1836,Employee_836,22,Male,HR,Developer,94463.0,10.0,2024-11-26,3,Hyderabad,Active
+EMP1656,Employee_656,41,Female,Sales,Sales Executive,26306.0,19.0,2018-12-22,8,Bangalore,Active
+EMP1466,Employee_466,56,Female,Marketing,Sales Executive,55881.0,12.0,2023-12-12,1,Coimbatore,Active
+EMP1671,Employee_671,54,Male,Marketing,Accountant,80561.0,14.0,2025-05-31,10,Pune,Active
+EMP1320,Employee_320,22,Female,Finance,Sales Executive,28696.0,16.0,2024-10-30,7,Mumbai,Resigned
+EMP1399,Employee_399,25,Male,IT,Analyst,102801.0,7.0,2016-11-23,9,Bangalore,Resigned
+EMP1307,Employee_307,53,Female,IT,Analyst,93323.0,12.0,2022-04-19,1,Pune,Active
+EMP1308,Employee_308,23,Male,Sales,Accountant,48816.0,15.0,2016-05-21,9,Bangalore,On Leave
+EMP1829,Employee_829,48,Male,Marketing,Accountant,117471.0,7.0,2016-04-25,4,Hyderabad,Active
+EMP1334,Employee_334,56,Male,Finance,Analyst,40417.0,2.0,2020-07-03,9,Pune,Active
+EMP1050,Employee_50,37,Male,Marketing,Developer,54320.0,11.0,2015-05-03,1,Pune,Active
+EMP1826,Employee_826,26,Female,Finance,Accountant,27187.0,6.0,2019-07-23,7,Mumbai,Active
+EMP1003,Employee_3,35,Male,Operations,HR Executive,73695.0,7.0,2018-01-06,10,Hyderabad,On Leave
+EMP1549,Employee_549,59,Male,Finance,Manager,64194.0,15.0,2021-07-02,2,Coimbatore,Resigned
+EMP1353,Employee_353,35,Female,Sales,Analyst,27871.0,12.0,2016-04-01,8,Bangalore,Resigned
+EMP1913,Employee_913,60,Female,IT,Sales Executive,81053.0,9.0,2016-07-02,9,Mumbai,Active
+EMP1952,Employee_952,30,Female,HR,Analyst,84191.0,7.0,2025-05-06,6,Pune,Active
+EMP1347,Employee_347,43,Male,Sales,Accountant,59540.0,18.0,2016-12-30,10,Pune,Active
+EMP1412,Employee_412,43,Female,Marketing,HR Executive,62544.0,13.0,2023-07-13,1,Bangalore,Active
+EMP1825,Employee_825,51,Female,Sales,Analyst,37356.0,3.0,2022-11-28,10,Mumbai,Active
+EMP1582,Employee_582,35,Female,IT,Manager,44581.0,9.0,2015-05-14,1,Chennai,Resigned
+EMP1034,Employee_34,41,Male,Marketing,Analyst,112592.0,20.0,2022-05-10,8,Bangalore,Active
+EMP1032,Employee_32,57,Male,Marketing,Manager,43971.0,15.0,2023-06-21,9,Chennai,Active
+EMP1232,Employee_232,32,Female,IT,Developer,117492.0,15.0,2025-11-01,6,Coimbatore,Active
+EMP1755,Employee_755,56,Male,Marketing,Accountant,35103.0,8.0,2025-09-01,9,Pune,Active
+EMP1193,Employee_193,25,Female,IT,Accountant,43990.0,13.0,2022-04-28,2,Chennai,Active
+EMP1515,Employee_515,51,Female,Sales,Manager,43287.0,5.0,invalid_date,7,Mumbai,Resigned
+EMP1004,Employee_4,28,Female,Sales,HR Executive,57441.0,3.0,2023-12-10,2,Pune,Active
+EMP1205,Employee_205,40,Male,HR,HR Executive,72118.0,2.0,2021-10-18,8,Coimbatore,Active
+EMP1540,Employee_540,42,Male,Finance,Manager,113791.0,20.0,2023-06-15,2,Coimbatore,On Leave
+EMP1663,Employee_663,60,Female,Operations,HR Executive,76707.0,13.0,2022-08-05,5,Pune,On Leave
+EMP1989,Employee_989,53,Male,Operations,Developer,72937.0,11.0,2018-03-13,1,Bangalore,Active
+EMP1110,Employee_110,55,Female,Marketing,Manager,101240.0,5.0,2015-11-22,7,Pune,Active
+EMP1603,Employee_603,48,Male,HR,Manager,-10000.0,6.0,2015-04-21,10,Pune,Active
+EMP1078,Employee_78,21,Male,HR,Accountant,29213.0,14.0,2021-12-17,8,Hyderabad,On Leave
+EMP1085,Employee_85,44,Female,Operations,Analyst,53172.0,11.0,2022-12-12,2,Chennai,Active
+EMP1527,Employee_527,27,Female,Sales,Developer,96569.0,19.0,2023-08-05,1,Hyderabad,Active
+EMP1083,Employee_83,21,Male,Finance,Developer,27100.0,4.0,2025-08-02,2,Hyderabad,Resigned
+EMP1255,Employee_255,49,Female,HR,Sales Executive,28642.0,10.0,2018-07-16,4,Coimbatore,Active
+EMP1765,Employee_765,34,Female,Finance,Manager,33024.0,9.0,2025-03-20,9,Pune,Active
+EMP1429,Employee_429,52,Male,Marketing,Manager,100715.0,19.0,2025-02-18,1,Chennai,Active
+EMP1916,Employee_916,58,Male,Finance,HR Executive,94724.0,18.0,2015-03-14,9,Mumbai,On Leave
+EMP1524,Employee_524,30,Male,HR,Developer,75719.0,2.0,2016-08-11,1,Chennai,Resigned
+EMP1468,Employee_468,57,Male,HR,Sales Executive,33712.0,7.0,2018-01-26,4,Chennai,Active
+EMP1645,Employee_645,51,Female,Operations,Accountant,106882.0,14.0,2024-08-11,9,Chennai,On Leave
+EMP1006,Employee_6,59,Male,Finance,Manager,87368.0,10.0,2016-06-10,9,Chennai,Resigned
+EMP1406,Employee_406,41,Male,Marketing,Analyst,113691.0,1.0,2020-02-25,2,Mumbai,Resigned
+EMP1469,Employee_469,29,Female,Finance,Manager,99704.0,8.0,2022-04-06,4,Bangalore,Resigned
+EMP1098,Employee_98,32,Female,Sales,HR Executive,49087.0,5.0,2015-03-24,8,Coimbatore,Active
+EMP1927,Employee_927,60,Female,Finance,Developer,109607.0,6.0,2019-02-19,3,Coimbatore,Active
+EMP1360,Employee_360,26,Male,Marketing,Analyst,105070.0,,2020-05-23,9,Pune,Active
+EMP1877,Employee_877,44,Female,HR,Developer,39955.0,1.0,2017-12-28,3,Coimbatore,Active
+EMP1267,Employee_267,40,Female,Finance,Analyst,43793.0,4.0,2016-01-01,2,Hyderabad,Active
+EMP1423,Employee_423,24,Female,Marketing,Accountant,78459.0,14.0,2025-06-29,6,Coimbatore,Active
+EMP1463,Employee_463,56,Female,Marketing,Sales Executive,89425.0,17.0,2016-08-02,9,Bangalore,Active
+EMP1696,Employee_696,58,Female,Sales,Accountant,95821.0,14.0,2021-06-15,3,Mumbai,Active
+EMP1974,Employee_974,40,Male,IT,HR Executive,76759.0,9.0,2023-06-14,1,Hyderabad,Active
+EMP1494,Employee_494,32,Female,HR,Manager,44456.0,12.0,2017-08-11,3,Pune,Active
+EMP1119,Employee_119,47,Female,IT,Developer,55116.0,14.0,2022-08-10,9,Chennai,Active
+EMP1972,Employee_972,47,Female,Sales,HR Executive,48185.0,12.0,2024-05-25,3,Coimbatore,Active
+EMP1251,Employee_251,55,Female,Marketing,Accountant,55873.0,16.0,2025-08-28,6,Pune,Resigned
+EMP1343,Employee_343,48,Female,Marketing,Accountant,112440.0,16.0,2017-07-01,7,Pune,Active
+EMP1010,Employee_10,31,Male,Operations,Analyst,96854.0,16.0,2024-05-04,7,Coimbatore,Active
+EMP1197,Employee_197,31,Male,,Sales Executive,36033.0,15.0,2023-08-15,10,Bangalore,Resigned
+EMP1742,Employee_742,25,Male,IT,HR Executive,83671.0,4.0,2016-11-10,10,Bangalore,Active
+EMP1082,Employee_82,44,Female,Finance,HR Executive,82134.0,19.0,2020-11-26,1,Bangalore,Active
+EMP1949,Employee_949,22,Female,Sales,Analyst,34359.0,11.0,2018-02-03,7,Mumbai,Active
+EMP1480,Employee_480,57,Female,Operations,Analyst,36156.0,6.0,2023-08-23,2,Mumbai,Active
+EMP1626,Employee_626,21,Male,Finance,Analyst,53230.0,12.0,2025-05-08,4,Chennai,On Leave
+EMP1240,Employee_240,-5,Male,Sales,Analyst,56279.0,16.0,2020-04-28,2,Bangalore,Active
+EMP1293,Employee_293,48,Male,Operations,Accountant,88227.0,5.0,2015-09-30,9,Pune,Active
+EMP1212,Employee_212,52,Female,,Accountant,113509.0,1.0,2016-02-15,3,Pune,Active
+EMP1901,Employee_901,57,Male,Operations,HR Executive,68370.0,10.0,2017-09-16,8,Chennai,Active
+EMP1362,Employee_362,50,Male,HR,Sales Executive,67998.0,5.0,2019-07-17,9,Pune,Resigned
+EMP1533,Employee_533,25,Male,Marketing,Manager,29173.0,2.0,2020-04-07,5,Bangalore,Active
+EMP1228,Employee_228,36,Female,IT,Analyst,118344.0,6.0,2018-06-09,6,Coimbatore,Active
+EMP1865,Employee_865,22,Male,Finance,Analyst,118422.0,4.0,2018-04-06,7,Coimbatore,Active
+EMP1363,Employee_363,55,Female,Marketing,Developer,88814.0,7.0,2020-01-09,8,Chennai,Active
+EMP1853,Employee_853,58,Female,Marketing,Accountant,81358.0,19.0,2020-08-02,9,Chennai,Active
+EMP1955,Employee_955,33,Female,Finance,Analyst,52048.0,10.0,2016-08-16,7,Hyderabad,Active
+EMP1965,Employee_965,32,Female,Operations,HR Executive,29994.0,1.0,2019-01-30,4,Pune,On Leave
+EMP1366,Employee_366,33,Male,Sales,HR Executive,86844.0,13.0,2020-02-13,1,Hyderabad,Active
+EMP1771,Employee_771,23,Male,Finance,Developer,117708.0,,2015-01-28,2,Pune,Active
+EMP1860,Employee_860,26,Female,HR,HR Executive,41322.0,19.0,2018-09-14,3,Pune,On Leave
+EMP1372,Employee_372,46,Female,Marketing,Accountant,75574.0,4.0,2022-01-19,5,Chennai,Resigned
+EMP1008,Employee_8,43,Female,Sales,Developer,69760.0,10.0,2022-04-14,8,Chennai,Active
+EMP1156,Employee_156,59,Female,IT,Developer,112265.0,13.0,2020-12-18,2,Coimbatore,Active
+EMP1546,Employee_546,26,Female,Operations,Manager,107912.0,11.0,2021-07-09,3,Mumbai,Resigned
+EMP1808,Employee_808,42,Male,Finance,Sales Executive,101709.0,10.0,2021-10-12,10,Hyderabad,Resigned
+EMP1486,Employee_486,50,Female,Operations,Analyst,102603.0,5.0,2019-08-30,7,Hyderabad,Active
+EMP1585,Employee_585,23,Female,Marketing,HR Executive,41523.0,7.0,2018-12-21,6,Pune,Active
+EMP1786,Employee_786,45,Female,IT,Accountant,116470.0,13.0,2019-08-05,10,Coimbatore,Active
+EMP1571,Employee_571,41,Male,Marketing,Manager,49335.0,15.0,2024-09-06,9,Bangalore,Active
+EMP1478,Employee_478,43,Female,Sales,Analyst,103958.0,7.0,2021-12-25,4,Hyderabad,Active
+EMP1583,Employee_583,51,Male,HR,Developer,84722.0,19.0,2020-07-23,3,Hyderabad,Active
+EMP1943,Employee_943,53,Female,Sales,HR Executive,65142.0,20.0,2023-10-07,1,Pune,Active
+EMP1698,Employee_698,44,Male,Finance,HR Executive,109021.0,7.0,2022-01-19,5,Pune,On Leave
+EMP1833,Employee_833,26,Female,IT,Developer,,7.0,2022-12-29,1,Mumbai,Active
+EMP1535,Employee_535,57,Female,Finance,Analyst,75445.0,16.0,2016-08-19,9,Coimbatore,Resigned
+EMP1588,Employee_588,31,Female,,Manager,35808.0,12.0,2023-12-06,10,Bangalore,Active
+EMP1715,Employee_715,33,Male,Sales,Analyst,116176.0,11.0,2019-07-28,10,Bangalore,Resigned
+EMP1452,Employee_452,46,Male,IT,HR Executive,110731.0,9.0,2019-09-03,1,Coimbatore,On Leave
+EMP1457,Employee_457,46,Male,Sales,Accountant,27708.0,16.0,2018-04-24,10,Mumbai,Resigned
+EMP1229,Employee_229,46,Male,Operations,Analyst,49272.0,15.0,2015-11-24,7,Pune,Resigned
+EMP1860,Employee_860,26,Female,HR,HR Executive,41322.0,19.0,2018-09-14,3,Pune,On Leave
+EMP1750,Employee_750,46,Female,Marketing,Sales Executive,68326.0,10.0,2022-05-17,6,Chennai,Resigned
+EMP1213,Employee_213,27,Female,Marketing,Manager,64121.0,3.0,2024-11-03,6,Pune,On Leave
+EMP1080,Employee_80,27,Female,Operations,Manager,80860.0,3.0,2016-09-01,4,Chennai,On Leave
+EMP1149,Employee_149,45,Male,Sales,Sales Executive,36308.0,1.0,2017-05-01,2,Chennai,Active
+EMP1303,Employee_303,53,Female,Sales,Developer,110867.0,9.0,2020-08-01,3,Chennai,Active
+EMP1666,Employee_666,48,Female,Finance,Sales Executive,65387.0,6.0,2024-10-13,3,Coimbatore,Active
+EMP1329,Employee_329,55,Male,Finance,Developer,91641.0,11.0,2016-01-26,10,Pune,Active
+EMP1670,Employee_670,46,Female,Marketing,Analyst,104832.0,10.0,2016-03-14,10,Mumbai,On Leave
+EMP1345,Employee_345,22,Male,Finance,Analyst,68361.0,4.0,2016-03-02,10,Hyderabad,On Leave
+EMP1712,Employee_712,54,Female,Finance,Sales Executive,91395.0,1.0,2020-04-28,5,Pune,Active
+EMP1508,Employee_508,41,Male,Marketing,Developer,91899.0,7.0,2017-06-08,9,Chennai,Resigned
+EMP1134,Employee_134,49,Female,HR,Analyst,58487.0,17.0,2019-10-20,6,Coimbatore,On Leave
+EMP1555,Employee_555,23,Male,Sales,Manager,77815.0,16.0,2019-12-19,5,Coimbatore,Resigned
+EMP1312,Employee_312,23,Female,Sales,Manager,80841.0,7.0,2024-01-31,3,Bangalore,Active
+EMP1759,Employee_759,35,Female,Marketing,Accountant,107409.0,2.0,2015-10-23,5,Bangalore,Resigned
+EMP1500,Employee_500,34,Female,Sales,Manager,44873.0,18.0,2021-02-22,9,Hyderabad,Active
+EMP1001,Employee_1,59,Female,HR,Sales Executive,116218.0,2.0,2019-08-22,1,Hyderabad,Active
+EMP1317,Employee_317,43,Male,HR,Analyst,110744.0,14.0,2023-08-25,1,Pune,On Leave
+EMP1714,Employee_714,22,Male,Marketing,Accountant,29138.0,6.0,2020-10-13,9,Bangalore,Active
+EMP1552,Employee_552,46,Male,Marketing,HR Executive,38794.0,2.0,2019-06-26,5,Bangalore,Active
+EMP1804,Employee_804,54,Female,Marketing,Accountant,32296.0,1.0,2022-07-12,2,Coimbatore,Resigned
+EMP1537,Employee_537,39,Male,IT,Accountant,62564.0,2.0,2016-07-10,2,Bangalore,Active
+EMP1746,Employee_746,34,Female,Finance,HR Executive,85030.0,15.0,2017-12-09,3,Mumbai,Active
+EMP1846,Employee_846,40,Male,Operations,Analyst,36087.0,11.0,2020-09-26,4,Coimbatore,Active
+EMP1173,Employee_173,37,Female,IT,Sales Executive,71169.0,17.0,2022-06-25,6,Bangalore,Active
+EMP1126,Employee_126,59,Male,Sales,Accountant,65992.0,20.0,2020-02-22,8,Hyderabad,On Leave
+EMP1990,Employee_990,60,Female,Sales,Accountant,31476.0,8.0,2015-04-21,10,Mumbai,Active
+EMP1424,Employee_424,36,Male,IT,Accountant,63402.0,8.0,2025-12-23,7,Chennai,On Leave
+EMP1809,Employee_809,41,Female,HR,Sales Executive,81704.0,15.0,2025-12-30,9,Mumbai,On Leave
+EMP1912,Employee_912,59,Female,Marketing,Analyst,30618.0,18.0,2024-02-22,3,Mumbai,Active
+EMP1091,Employee_91,53,Female,Marketing,HR Executive,64779.0,20.0,2015-02-12,6,Chennai,On Leave
+EMP1948,Employee_948,42,Female,HR,HR Executive,55075.0,3.0,2017-01-01,5,Hyderabad,Resigned
+EMP1182,Employee_182,39,Male,Finance,HR Executive,103915.0,0.0,2020-11-28,2,Pune,Resigned
+EMP1275,Employee_275,42,Female,IT,HR Executive,46542.0,7.0,2017-03-01,4,Chennai,On Leave
+EMP1904,Employee_904,34,Male,HR,Accountant,110280.0,11.0,2019-06-23,6,Coimbatore,On Leave
+EMP1070,Employee_70,41,Female,Finance,Sales Executive,87261.0,20.0,2019-10-01,6,Coimbatore,Active
+EMP1292,Employee_292,37,Male,Operations,Manager,43601.0,4.0,2015-12-14,7,Hyderabad,Active
+EMP1132,Employee_132,59,male,Operations,Analyst,31155.0,5.0,2025-12-10,9,Coimbatore,Active
+EMP1301,Employee_301,51,Female,HR,Developer,117772.0,0.0,2020-10-27,7,Chennai,Active
+EMP1933,Employee_933,28,Female,Marketing,Manager,30126.0,3.0,2021-02-22,2,Coimbatore,Resigned
+EMP1327,Employee_327,49,Female,Sales,Manager,100731.0,15.0,2016-10-11,1,Pune,Active
+EMP1145,Employee_145,40,Female,IT,HR Executive,52606.0,18.0,2015-05-09,1,Hyderabad,Active
+EMP1498,Employee_498,27,Male,Sales,Analyst,57934.0,3.0,2024-08-25,5,Mumbai,Active
+EMP1678,Employee_678,37,Male,Marketing,Sales Executive,109381.0,3.0,2023-01-17,7,Chennai,On Leave
+EMP1951,Employee_951,25,Female,Operations,Sales Executive,76831.0,10.0,2019-05-25,5,Mumbai,On Leave
+EMP1136,Employee_136,33,Female,HR,Developer,45963.0,3.0,2022-04-12,6,Bangalore,On Leave
+EMP1782,Employee_782,37,Female,IT,Accountant,68427.0,12.0,2022-02-10,3,Mumbai,Active
+EMP1165,Employee_165,52,Female,HR,Analyst,51423.0,16.0,2015-10-03,6,Mumbai,On Leave
+EMP1029,Employee_29,36,Female,Finance,Developer,47005.0,8.0,2015-02-05,4,Hyderabad,Resigned
+EMP1961,Employee_961,28,Male,Finance,Sales Executive,36676.0,16.0,2017-09-05,5,Mumbai,Active
+EMP1194,Employee_194,54,Male,HR,Accountant,115270.0,17.0,2017-11-15,5,Hyderabad,On Leave
+EMP1962,Employee_962,25,Male,Operations,Analyst,29434.0,1.0,2019-10-16,4,Bangalore,Active
+EMP1644,Employee_644,25,Female,Operations,Developer,47547.0,7.0,2019-11-20,8,Pune,Active
+EMP1170,Employee_170,22,Female,Sales,Manager,74429.0,10.0,2025-07-25,1,Hyderabad,Active
+EMP1986,Employee_986,60,Male,Marketing,Sales Executive,101848.0,11.0,2024-11-22,1,Hyderabad,Active
+EMP1141,Employee_141,22,Female,Marketing,Analyst,78554.0,15.0,2025-11-10,2,Chennai,On Leave
+EMP1174,Employee_174,22,Male,Finance,HR Executive,32659.0,10.0,2015-06-20,3,Chennai,Active
+EMP1007,Employee_7,39,Male,Finance,Accountant,117122.0,10.0,2022-01-15,6,Coimbatore,Active
+EMP1897,Employee_897,34,Female,Marketing,Analyst,72221.0,17.0,2015-07-10,6,Coimbatore,Active
+EMP1482,Employee_482,33,Female,Finance,HR Executive,56845.0,5.0,2019-11-22,6,Hyderabad,Active
+EMP1074,Employee_74,46,Male,Marketing,Accountant,58002.0,6.0,2019-04-29,8,Bangalore,Active
+EMP1690,Employee_690,54,Male,Marketing,Manager,106132.0,12.0,2022-03-24,5,Pune,Active
+EMP1584,Employee_584,21,Male,IT,HR Executive,117036.0,16.0,2023-04-01,2,Coimbatore,Active
+EMP1239,Employee_239,36,Female,Operations,Manager,50851.0,9.0,2024-04-18,3,Hyderabad,Active
+EMP1146,Employee_146,50,Male,IT,Accountant,72832.0,3.0,2020-02-16,8,Mumbai,Resigned
+EMP1800,Employee_800,39,Male,,HR Executive,117247.0,20.0,2023-01-19,8,Coimbatore,Active
+EMP1235,Employee_235,52,Male,Marketing,Analyst,38979.0,2.0,2015-09-20,7,Mumbai,Active
+EMP1221,Employee_221,48,Male,HR,Developer,63405.0,7.0,2020-03-22,10,Coimbatore,On Leave
+EMP1479,Employee_479,-5,Male,HR,Analyst,57920.0,18.0,2023-12-01,6,Hyderabad,Active
+EMP1719,Employee_719,51,Female,Marketing,Developer,87956.0,15.0,2024-05-07,5,Chennai,Active
+EMP1133,Employee_133,35,Male,Operations,Analyst,71607.0,13.0,2020-10-02,4,Coimbatore,Resigned
+EMP1522,Employee_522,32,Female,Operations,Analyst,69814.0,12.0,2022-04-24,10,Chennai,Active
+EMP1985,Employee_985,33,Female,Operations,Manager,36064.0,1.0,2024-10-30,4,Mumbai,Active
+EMP1186,Employee_186,26,Male,Sales,Sales Executive,90344.0,14.0,2017-12-02,6,Pune,Active
+EMP1042,Employee_42,46,Female,,Sales Executive,110992.0,12.0,2015-06-13,7,Bangalore,Active
+EMP1617,Employee_617,26,Male,Marketing,Manager,80312.0,0.0,2017-06-22,7,Chennai,Active
+EMP1109,Employee_109,21,Male,Sales,Developer,36950.0,0.0,2025-08-04,10,Hyderabad,On Leave
+EMP1595,Employee_595,32,Male,Sales,Developer,111741.0,15.0,2024-08-16,9,Bangalore,Active
+EMP1057,Employee_57,49,Male,Marketing,HR Executive,108692.0,1.0,2019-11-14,5,Bangalore,Resigned
+EMP1409,Employee_409,53,Female,Sales,Accountant,62726.0,6.0,2025-06-17,3,Mumbai,Active
+EMP1446,Employee_446,32,Female,Operations,Sales Executive,55106.0,7.0,2019-02-19,4,Pune,Active
+EMP1568,Employee_568,58,Male,Sales,Developer,110988.0,5.0,2015-11-02,8,Chennai,Resigned
+EMP1869,Employee_869,40,Male,Finance,HR Executive,69589.0,3.0,2021-01-10,9,Hyderabad,Active
+EMP1025,Employee_25,42,Male,IT,Manager,88115.0,4.0,2015-11-28,8,Pune,Active
+EMP1421,Employee_421,21,Male,Operations,Analyst,110076.0,18.0,2018-10-12,4,Chennai,Active
+EMP1450,Employee_450,43,Male,Sales,Developer,111511.0,10.0,2021-04-25,10,Chennai,Active
+EMP1536,Employee_536,58,Male,IT,Accountant,95305.0,14.0,2016-03-26,4,Hyderabad,Active
+EMP1779,Employee_779,48,Female,Sales,Manager,95843.0,14.0,2024-04-25,10,Bangalore,Active
+EMP1661,Employee_661,24,Male,Marketing,Accountant,61963.0,3.0,2023-03-06,2,Pune,On Leave
+EMP1935,Employee_935,49,Male,Operations,Manager,115932.0,14.0,2020-11-06,3,Chennai,Active
+EMP1339,Employee_339,34,Male,Marketing,Accountant,34256.0,3.0,2023-03-16,4,Mumbai,Active
+EMP1052,Employee_52,60,Female,Operations,Developer,77389.0,11.0,2022-07-09,4,Coimbatore,Active
+EMP1716,Employee_716,31,Female,Marketing,Sales Executive,100945.0,18.0,2016-10-24,5,Mumbai,Active
+EMP1520,Employee_520,31,Male,Marketing,Accountant,37112.0,11.0,2024-10-29,9,Hyderabad,Active
+EMP1929,Employee_929,26,Male,Marketing,Developer,86510.0,10.0,2018-03-20,1,Chennai,Active
+EMP1639,Employee_639,21,Male,IT,HR Executive,85710.0,5.0,2016-08-10,2,Hyderabad,On Leave
+EMP1265,Employee_265,34,Female,Marketing,Developer,33711.0,19.0,2021-06-10,7,Bangalore,On Leave
+EMP1542,Employee_542,27,Male,Operations,Sales Executive,109892.0,14.0,2023-12-11,10,Mumbai,On Leave
+EMP1718,Employee_718,36,Male,HR,Sales Executive,35451.0,9.0,2015-03-05,9,Chennai,On Leave
+EMP1689,Employee_689,58,Female,HR,Accountant,101872.0,3.0,2018-04-06,9,Hyderabad,Active
+EMP1590,Employee_590,30,Male,IT,Analyst,48620.0,4.0,2024-12-05,8,Bangalore,Resigned
+EMP1523,Employee_523,29,Male,Sales,Developer,110091.0,1.0,2024-03-19,1,Pune,On Leave
+EMP1451,Employee_451,37,Female,Finance,Accountant,32214.0,7.0,2018-03-04,2,Bangalore,Active
+EMP1019,Employee_19,50,Female,Finance,Accountant,79040.0,15.0,2025-03-18,3,Chennai,On Leave
+EMP1723,Employee_723,24,Male,IT,Accountant,68764.0,17.0,2018-10-07,8,Chennai,Active
+EMP1487,Employee_487,37,Female,Sales,HR Executive,58872.0,4.0,2018-12-06,3,Chennai,On Leave
+EMP1573,Employee_573,41,Female,HR,Sales Executive,111610.0,14.0,2019-08-17,10,Chennai,Resigned
+EMP1437,Employee_437,57,Male,Finance,Developer,47412.0,10.0,2019-11-18,4,Mumbai,Active
+EMP1368,Employee_368,39,Male,Operations,Analyst,27179.0,9.0,2025-03-18,5,Pune,Active
+EMP1084,Employee_84,28,Male,HR,Accountant,86997.0,19.0,2016-01-07,9,Bangalore,On Leave
+EMP1062,Employee_62,56,Female,Sales,Sales Executive,72377.0,16.0,2016-12-10,1,Pune,Active
+EMP1441,Employee_441,53,Male,Sales,Accountant,85957.0,14.0,2019-09-22,10,Hyderabad,Active
+EMP1273,Employee_273,32,Male,IT,Developer,113896.0,7.0,2023-12-31,6,Coimbatore,Active
+EMP1286,Employee_286,48,Female,Finance,HR Executive,33155.0,3.0,2022-12-22,7,Mumbai,Active
+EMP1361,Employee_361,52,Male,IT,Accountant,114390.0,15.0,2017-01-25,2,Mumbai,Active
+EMP1355,Employee_355,53,Male,IT,Manager,74812.0,5.0,2015-10-18,8,Mumbai,Active
+EMP1653,Employee_653,30,Female,Sales,HR Executive,44233.0,1.0,2017-11-03,7,Bangalore,Active
+EMP1279,Employee_279,28,Male,Finance,Manager,112893.0,9.0,2021-08-11,10,Hyderabad,On Leave
+EMP1013,Employee_13,60,Female,HR,Analyst,37180.0,14.0,2015-10-07,7,Mumbai,Active
+EMP1183,Employee_183,22,Male,Operations,Sales Executive,79254.0,6.0,2020-05-26,10,Pune,Active
+EMP1369,Employee_369,37,Female,Operations,Developer,68798.0,2.0,2018-03-25,2,Mumbai,Active
+EMP1496,Employee_496,32,Male,Operations,Developer,90942.0,16.0,2025-03-22,5,Mumbai,On Leave
+EMP1622,Employee_622,30,Female,Operations,Developer,87120.0,14.0,2024-09-28,2,Hyderabad,Active
+EMP1224,Employee_224,51,Female,HR,Accountant,102227.0,19.0,2025-12-23,2,Mumbai,On Leave
+EMP1811,Employee_811,26,Male,HR,HR Executive,56781.0,18.0,2023-10-03,4,Coimbatore,Active
+EMP1706,Employee_706,37,Female,Operations,HR Executive,119851.0,7.0,2019-01-02,1,Mumbai,Active
+EMP1507,Employee_507,45,Female,Operations,Analyst,62125.0,15.0,2025-08-14,5,Bangalore,On Leave
+EMP1550,Employee_550,47,Male,Operations,Developer,25389.0,0.0,2020-08-24,8,Mumbai,Active
+EMP1589,Employee_589,32,Male,Operations,HR Executive,97525.0,20.0,2018-03-10,8,Pune,Active
+EMP1738,Employee_738,42,Female,Finance,Manager,111346.0,17.0,2019-01-29,9,Coimbatore,Active
+EMP1177,Employee_177,43,Female,Marketing,Developer,57793.0,4.0,2021-02-13,10,Mumbai,On Leave
+EMP1741,Employee_741,21,Male,Operations,Accountant,59397.0,8.0,2018-08-19,3,Bangalore,Resigned
+EMP1634,Employee_634,47,Female,Finance,Analyst,90303.0,5.0,2020-07-31,5,Pune,On Leave
+EMP1592,Employee_592,36,Male,Operations,Accountant,56802.0,5.0,2019-12-25,8,Mumbai,On Leave
+EMP1591,Employee_591,52,Female,Operations,HR Executive,25887.0,12.0,2020-02-13,5,Pune,Resigned
+EMP1394,Employee_394,57,Female,HR,Analyst,40523.0,7.0,2021-05-04,7,Chennai,Resigned
+EMP1164,Employee_164,35,Male,Sales,Manager,36908.0,3.0,2019-07-03,2,Coimbatore,Active
+EMP1249,Employee_249,60,Male,IT,Manager,88761.0,11.0,2018-12-15,5,Coimbatore,Active
+EMP1708,Employee_708,37,Male,HR,HR Executive,27426.0,10.0,2015-03-26,8,Coimbatore,On Leave
+EMP1894,Employee_894,28,Female,Finance,Accountant,94166.0,19.0,2017-10-28,7,Pune,Active
+EMP1676,Employee_676,50,Male,Operations,HR Executive,26813.0,18.0,2023-02-10,2,Bangalore,Active
+EMP1376,Employee_376,29,Female,Operations,Developer,67351.0,19.0,2023-12-03,8,Bangalore,Active
+EMP1413,Employee_413,30,Male,IT,Developer,74976.0,17.0,2019-10-02,8,Bangalore,Active
+EMP1075,Employee_75,45,Male,HR,Sales Executive,105098.0,9.0,2024-07-04,3,Coimbatore,Resigned
+EMP1114,Employee_114,21,Female,HR,Manager,28866.0,10.0,2025-07-28,7,Pune,Resigned
+EMP1579,Employee_579,40,Male,Sales,Accountant,97827.0,2.0,2023-01-15,7,Bangalore,Active
+EMP1939,Employee_939,47,Male,IT,Analyst,64082.0,0.0,2022-08-27,10,Hyderabad,Resigned
+EMP1391,Employee_391,32,Female,Finance,Manager,70095.0,14.0,2023-12-19,8,Pune,Active
+EMP1105,Employee_105,60,Female,Marketing,Accountant,69864.0,17.0,2025-05-23,2,Coimbatore,Active
+EMP1115,Employee_115,25,Female,Operations,Sales Executive,57245.0,9.0,2020-06-08,2,Chennai,Active
+EMP1418,Employee_418,30,Female,Finance,Manager,59148.0,15.0,2025-11-29,3,Hyderabad,Active
+EMP1594,Employee_594,58,Male,Marketing,Developer,106938.0,8.0,2024-04-09,5,Bangalore,Active
+EMP1458,Employee_458,54,Female,Marketing,Analyst,43375.0,0.0,2025-12-14,5,Bangalore,On Leave
+EMP1410,Employee_410,50,Male,HR,Sales Executive,62044.0,12.0,2021-09-03,1,Bangalore,On Leave
+EMP1093,Employee_93,59,Male,Finance,Analyst,107594.0,14.0,2018-06-22,6,Mumbai,Resigned
+EMP1569,Employee_569,26,Female,Operations,Sales Executive,68526.0,16.0,2020-08-21,7,Mumbai,On Leave
+EMP1090,Employee_90,55,Male,HR,HR Executive,33016.0,5.0,2017-04-26,9,Bangalore,Active
+EMP1337,Employee_337,28,Female,Marketing,Developer,54961.0,15.0,2022-01-04,10,Coimbatore,Active
+EMP1999,Employee_999,29,Female,Marketing,Accountant,51946.0,3.0,2022-03-27,6,Coimbatore,Resigned
+EMP1930,Employee_930,26,Male,Operations,Analyst,83692.0,0.0,2025-03-29,7,Coimbatore,On Leave
+EMP1942,Employee_942,58,Male,IT,HR Executive,57130.0,14.0,2016-05-07,9,Bangalore,Resigned
+EMP1612,Employee_612,33,Female,Sales,Accountant,105702.0,11.0,2018-06-26,2,Pune,Active
+EMP1600,Employee_600,56,Male,IT,Accountant,115563.0,10.0,2017-12-15,8,Pune,On Leave
+EMP1618,Employee_618,38,Male,Sales,Manager,35561.0,0.0,2019-03-22,8,Pune,Resigned
+EMP1095,Employee_95,27,Female,Sales,Manager,76813.0,13.0,2018-10-10,1,Mumbai,Resigned
+EMP1012,Employee_12,56,Female,Operations,Manager,110716.0,1.0,2017-05-20,9,Bangalore,Resigned
+EMP1397,Employee_397,34,Male,Sales,Sales Executive,44991.0,13.0,2019-04-03,4,Chennai,Active
+EMP1874,Employee_874,29,Male,Sales,Sales Executive,61455.0,3.0,2025-01-30,4,Coimbatore,Resigned
+EMP1044,Employee_44,40,Female,Finance,Developer,27257.0,15.0,2024-11-10,6,Bangalore,Active
+EMP1043,Employee_43,22,Male,IT,Analyst,103860.0,10.0,2015-05-28,1,Bangalore,On Leave
+EMP1330,Employee_330,45,Male,Sales,Manager,88811.0,11.0,2019-02-28,3,Bangalore,On Leave
+EMP1168,Employee_168,32,Female,IT,Analyst,86215.0,5.0,2019-12-01,7,Pune,Active
+EMP1501,Employee_501,51,Male,Sales,Sales Executive,,2.0,2019-04-27,3,Hyderabad,On Leave
+EMP1885,Employee_885,29,Female,it,Accountant,97617.0,8.0,2025-01-24,10,Chennai,On Leave
+EMP1604,Employee_604,48,Female,Marketing,Analyst,106486.0,12.0,2020-12-24,10,Chennai,Resigned
+EMP1893,Employee_893,49,Female,Finance,Analyst,117365.0,14.0,2016-09-08,8,Chennai,Active
+EMP1101,Employee_101,43,Male,HR,HR Executive,26401.0,6.0,2017-03-10,5,Hyderabad,On Leave
+EMP1427,Employee_427,22,Male,HR,Manager,115453.0,11.0,2024-01-14,6,Mumbai,Resigned
+EMP1179,Employee_179,52,Female,Marketing,Accountant,114388.0,8.0,2018-01-14,3,Pune,Active
+EMP1445,Employee_445,33,Male,Marketing,Manager,50711.0,13.0,invalid_date,9,Coimbatore,Active
+EMP1417,Employee_417,51,Female,Sales,Developer,-10000.0,20.0,2018-01-29,10,Mumbai,On Leave
+EMP1654,Employee_654,39,Female,Sales,Sales Executive,106730.0,14.0,2016-01-09,6,Bangalore,Resigned
+EMP1891,Employee_891,60,Male,Marketing,Sales Executive,54345.0,19.0,2023-12-05,10,Chennai,On Leave
+EMP1665,Employee_665,54,Male,Finance,HR Executive,54084.0,12.0,2024-08-12,6,Mumbai,Active
+EMP1178,Employee_178,57,Male,Finance,Analyst,71473.0,8.0,2024-08-13,4,Coimbatore,Active
+EMP1396,Employee_396,49,Female,Sales,Developer,72068.0,12.0,2020-01-02,10,Coimbatore,Active
+EMP1683,Employee_683,34,Female,HR,Manager,67051.0,16.0,2023-07-06,8,Bangalore,Active
+EMP1802,Employee_802,26,Female,HR,Analyst,56707.0,6.0,2019-11-08,8,Chennai,Active
+EMP1971,Employee_971,46,Male,Marketing,Developer,67215.0,0.0,2021-03-13,9,Hyderabad,On Leave
+EMP1981,Employee_981,43,Female,Finance,Analyst,80480.0,10.0,2023-03-12,8,Chennai,On Leave
+EMP1384,Employee_384,21,Male,HR,Developer,56555.0,19.0,2025-12-29,1,Mumbai,Active
+EMP1967,Employee_967,47,Male,Operations,Developer,94300.0,5.0,2018-10-22,8,Chennai,Resigned
+EMP1619,Employee_619,25,Female,Operations,Analyst,41901.0,9.0,2020-06-22,1,Coimbatore,Active
+EMP1258,Employee_258,22,Male,Operations,Analyst,119826.0,6.0,2015-04-28,9,Bangalore,Active
+EMP1336,Employee_336,21,Male,Operations,Sales Executive,55099.0,17.0,2016-11-03,2,Chennai,Active
+EMP1016,Employee_16,42,Male,Sales,Manager,83272.0,7.0,2022-04-23,10,Pune,Active
+EMP1636,Employee_636,53,Male,Marketing,Analyst,113229.0,15.0,2024-06-03,7,Chennai,Resigned
+EMP1325,Employee_325,29,Female,Sales,Developer,70740.0,17.0,2018-04-07,4,Mumbai,Active
+EMP1766,Employee_766,44,Male,Sales,Developer,107214.0,2.0,2020-11-18,7,Mumbai,Active
+EMP1223,Employee_223,43,Male,IT,Sales Executive,68527.0,19.0,2018-10-24,1,Hyderabad,Active
+EMP1180,Employee_180,53,Male,IT,Sales Executive,113330.0,9.0,2019-02-08,7,Mumbai,On Leave
+EMP1994,Employee_994,25,Male,Operations,HR Executive,74683.0,19.0,2025-01-03,2,Chennai,Resigned
+EMP1522,Employee_522,32,Female,Operations,Analyst,69814.0,12.0,2022-04-24,10,Chennai,Active
+EMP1023,Employee_23,53,Male,Sales,HR Executive,41211.0,16.0,2018-02-25,5,Coimbatore,Active
+EMP1357,Employee_357,25,Female,Finance,Accountant,84979.0,2.0,2025-07-03,1,Hyderabad,On Leave
+EMP1680,Employee_680,35,Female,Operations,Developer,66243.0,15.0,2021-04-19,10,Bangalore,On Leave
+EMP1870,Employee_870,21,Male,Operations,Developer,57115.0,1.0,2018-11-12,1,Hyderabad,Active
+EMP1341,Employee_341,43,Male,Operations,Manager,59681.0,12.0,2017-07-18,7,Mumbai,Active
+EMP1432,Employee_432,44,Male,HR,Accountant,45466.0,8.0,2024-07-26,6,Coimbatore,On Leave
+EMP1803,Employee_803,46,Male,Operations,Developer,93814.0,16.0,2017-11-24,3,Coimbatore,On Leave
+EMP1842,Employee_842,26,Female,Operations,Accountant,,4.0,2019-07-16,3,Coimbatore,Resigned
+EMP1204,Employee_204,23,Female,Sales,Analyst,69769.0,5.0,2019-04-24,6,Pune,Active
+EMP1637,Employee_637,54,Male,IT,Sales Executive,29117.0,13.0,2015-06-24,4,Coimbatore,On Leave
+EMP1094,Employee_94,48,male,HR,Developer,49472.0,4.0,2024-03-12,2,Coimbatore,Resigned
+EMP1807,Employee_807,53,Female,HR,Sales Executive,38261.0,17.0,2015-06-02,1,Hyderabad,On Leave
+EMP1069,Employee_69,60,Female,IT,Analyst,72591.0,12.0,2021-06-22,2,Bangalore,Active
+EMP1629,Employee_629,31,Male,HR,Sales Executive,47625.0,14.0,2018-02-15,2,Chennai,Resigned
+EMP1285,Employee_285,53,Male,IT,Analyst,43020.0,4.0,2019-01-30,7,Hyderabad,On Leave
+EMP1886,Employee_886,54,Female,HR,HR Executive,66458.0,6.0,2022-01-16,10,Mumbai,Resigned
+EMP1435,Employee_435,53,Female,IT,Manager,110160.0,11.0,2016-02-09,7,Mumbai,Active
+EMP1154,Employee_154,33,Male,Sales,Accountant,27204.0,18.0,2023-03-14,4,Mumbai,Active
+EMP1076,Employee_76,49,Female,Sales,HR Executive,98016.0,6.0,2016-11-11,9,Coimbatore,Active
+EMP1738,Employee_738,42,Female,Finance,Manager,111346.0,17.0,2019-01-29,9,Coimbatore,Active
+EMP1447,Employee_447,51,Male,Sales,Analyst,90458.0,7.0,2025-10-31,3,Chennai,Active
+EMP1189,Employee_189,31,Male,Finance,HR Executive,48091.0,17.0,2023-12-16,1,Hyderabad,Active
+EMP1272,Employee_272,53,Male,Operations,Sales Executive,88069.0,7.0,2020-07-17,6,Coimbatore,Active
+EMP1237,Employee_237,55,Female,IT,Manager,37867.0,19.0,2021-08-03,9,Pune,Active
+EMP1488,Employee_488,40,Female,HR,Accountant,35728.0,18.0,2015-08-12,6,Chennai,On Leave
+EMP1118,Employee_118,59,Female,IT,Analyst,76374.0,2.0,2016-05-22,7,Coimbatore,Active
+EMP1827,Employee_827,22,Male,Operations,HR Executive,102243.0,1.0,2023-07-11,6,Coimbatore,Resigned
+EMP1513,Employee_513,59,Male,Operations,Developer,66520.0,17.0,2018-11-11,3,Hyderabad,Active
+EMP1558,Employee_558,40,Female,Operations,Analyst,26481.0,0.0,2020-07-13,4,Mumbai,Active
+EMP1598,Employee_598,28,Female,IT,Sales Executive,109526.0,7.0,2023-08-30,1,Chennai,Active
+EMP1127,Employee_127,52,Male,Sales,Developer,80350.0,18.0,2016-08-30,9,Hyderabad,Active
+EMP1117,Employee_117,34,Male,Finance,Developer,96354.0,12.0,2017-04-16,1,Chennai,Active
+EMP1474,Employee_474,38,Male,Finance,HR Executive,-10000.0,16.0,2016-01-18,4,Hyderabad,Active
+EMP1966,Employee_966,22,Male,HR,Accountant,29234.0,19.0,2017-06-12,3,Hyderabad,Active
+EMP1058,Employee_58,38,Male,HR,Analyst,82505.0,17.0,2019-01-25,3,Pune,Active
+EMP1681,Employee_681,57,Female,Marketing,Sales Executive,87912.0,11.0,2023-10-03,8,Coimbatore,Active
+EMP1921,Employee_921,45,Female,Sales,Analyst,96088.0,1.0,2025-08-31,2,Bangalore,Active
+EMP1370,Employee_370,39,Male,IT,Accountant,99601.0,11.0,2016-05-22,8,Chennai,Active
+EMP1269,Employee_269,27,Male,Finance,Analyst,101253.0,2.0,2022-01-14,2,Bangalore,Active
+EMP1047,Employee_47,28,Male,HR,Sales Executive,51654.0,7.0,2016-10-24,9,Bangalore,On Leave
+EMP1350,Employee_350,42,Female,,HR Executive,88043.0,3.0,2020-10-19,5,Mumbai,Resigned
+EMP1196,Employee_196,42,Female,IT,HR Executive,61081.0,17.0,2015-10-26,9,Pune,Resigned
+EMP1137,Employee_137,52,Male,Sales,HR Executive,75124.0,14.0,2024-11-12,2,Hyderabad,Active
+EMP1843,Employee_843,46,Male,Operations,Accountant,106257.0,15.0,2023-08-08,7,Bangalore,Active
+EMP1744,Employee_744,46,Female,Sales,Manager,91897.0,19.0,2016-11-12,6,Pune,Active
+EMP1264,Employee_264,53,Female,HR,Manager,95902.0,9.0,2019-02-12,4,Pune,Active
+EMP1444,Employee_444,49,Male,HR,Developer,48064.0,12.0,2017-02-08,10,Chennai,On Leave
+EMP1810,Employee_810,26,Male,IT,Analyst,92173.0,16.0,2016-05-22,4,Coimbatore,Active
+EMP1305,Employee_305,52,male,Marketing,Sales Executive,250000.0,1.0,2017-08-04,7,Bangalore,Active
+EMP1342,Employee_342,35,Male,Finance,HR Executive,116328.0,12.0,2019-03-20,9,Coimbatore,Active
+EMP1605,Employee_605,57,Female,HR,Accountant,70270.0,7.0,2021-03-29,9,Hyderabad,Resigned
+EMP1977,Employee_977,60,Female,Sales,Analyst,27581.0,15.0,2023-03-18,7,Pune,Active
+EMP1150,Employee_150,59,Female,IT,Analyst,87522.0,9.0,2024-04-20,1,Pune,Active
+EMP1125,Employee_125,52,Female,IT,HR Executive,54336.0,10.0,2023-03-07,5,Bangalore,Resigned
+EMP1794,Employee_794,38,Male,HR,Sales Executive,104052.0,1.0,2025-03-24,4,Bangalore,Active
+EMP1831,Employee_831,24,Female,HR,Manager,28606.0,14.0,2020-02-15,5,Bangalore,On Leave
+EMP1051,Employee_51,56,Male,Marketing,Sales Executive,45808.0,9.0,2018-11-24,2,Chennai,On Leave
+EMP1354,Employee_354,57,Male,HR,Sales Executive,71002.0,5.0,2021-02-14,8,Bangalore,On Leave
+EMP1936,Employee_936,53,Female,Operations,Accountant,25192.0,17.0,2017-03-09,8,Chennai,Active
+EMP1143,Employee_143,48,Male,Finance,HR Executive,29426.0,20.0,2024-08-09,1,Mumbai,Active
+EMP1471,Employee_471,55,Female,Sales,Analyst,94087.0,2.0,2020-08-31,7,Mumbai,Active
+EMP1400,Employee_400,50,Male,HR,Accountant,109995.0,14.0,2015-09-12,10,Hyderabad,On Leave
+EMP1632,Employee_632,45,Male,HR,Developer,66167.0,12.0,2022-12-07,8,Pune,On Leave
+EMP1321,Employee_321,46,Female,Marketing,Developer,45058.0,8.0,2024-03-03,10,Coimbatore,Resigned
+EMP1020,Employee_20,58,Male,HR,HR Executive,100357.0,12.0,2019-10-18,6,Hyderabad,Active
+EMP1818,Employee_818,29,Male,IT,Accountant,56174.0,10.0,2020-04-22,2,Hyderabad,Resigned
+EMP1801,Employee_801,57,Male,Finance,Sales Executive,98539.0,12.0,2021-07-19,7,Pune,Active
+EMP1817,Employee_817,44,Male,HR,Accountant,74393.0,11.0,2015-08-09,9,Coimbatore,Active
+EMP1408,Employee_408,56,Male,Finance,Sales Executive,41964.0,,2018-01-18,10,Pune,Active
+EMP1538,Employee_538,28,Female,IT,Manager,70814.0,11.0,2018-03-05,5,Coimbatore,Active
+EMP1627,Employee_627,38,Male,Marketing,Accountant,,15.0,2024-11-17,3,Mumbai,Resigned
+EMP1039,Employee_39,45,Female,HR,Accountant,79120.0,9.0,invalid_date,3,Pune,On Leave
+EMP1176,Employee_176,48,Female,Marketing,HR Executive,102240.0,11.0,2020-04-16,2,Chennai,On Leave
+EMP1246,Employee_246,28,Male,IT,HR Executive,112178.0,19.0,2025-12-24,1,Pune,Active
+EMP1837,Employee_837,35,Male,Marketing,Developer,96832.0,16.0,2015-12-11,2,Bangalore,On Leave
+EMP1674,Employee_674,21,Female,Operations,Analyst,73442.0,16.0,2016-11-29,5,Bangalore,Active
+EMP1762,Employee_762,46,Female,HR,Accountant,68516.0,15.0,2019-06-01,5,Hyderabad,Resigned
+EMP1867,Employee_867,60,Female,Marketing,Accountant,118782.0,19.0,2022-04-22,5,Coimbatore,On Leave
+EMP1155,Employee_155,23,Female,Marketing,Accountant,117769.0,10.0,2025-04-02,6,Bangalore,Active
+EMP1288,Employee_288,25,Female,Operations,Sales Executive,106051.0,5.0,2022-09-30,7,Mumbai,Active
+EMP1821,Employee_821,60,Female,Sales,HR Executive,72406.0,15.0,2023-06-24,7,Hyderabad,Resigned
+EMP1570,Employee_570,52,Female,IT,HR Executive,36889.0,10.0,2024-05-09,7,Mumbai,On Leave
+EMP1751,Employee_751,42,Female,Marketing,Manager,39924.0,16.0,2018-10-02,4,Pune,Resigned
+EMP1018,Employee_18,44,Male,Operations,Manager,118635.0,4.0,2020-03-07,2,Hyderabad,Active
+EMP1128,Employee_128,24,Male,Marketing,Analyst,94561.0,10.0,2025-01-06,5,Coimbatore,Active
+EMP1323,Employee_323,60,Male,Finance,Sales Executive,44149.0,19.0,2025-05-21,10,Mumbai,Resigned
+EMP1256,Employee_256,38,Female,Marketing,HR Executive,53001.0,1.0,2016-08-23,10,Chennai,Active
+EMP1775,Employee_775,55,Female,Operations,Manager,110178.0,9.0,2015-02-27,2,Coimbatore,Active
+EMP1975,Employee_975,31,Female,IT,HR Executive,66153.0,14.0,2015-08-05,8,Chennai,Active
+EMP1191,Employee_191,58,Male,Operations,Accountant,48989.0,16.0,2017-05-07,1,Mumbai,Active
+EMP1116,Employee_116,46,Female,IT,HR Executive,69724.0,2.0,2020-05-18,6,Hyderabad,Active
+EMP1623,Employee_623,50,Male,HR,Analyst,26988.0,16.0,2022-04-07,1,Mumbai,Resigned
+EMP1607,Employee_607,47,Male,IT,HR Executive,113278.0,6.0,2016-04-12,10,Mumbai,Active
+EMP1181,Employee_181,21,Female,IT,Developer,80751.0,18.0,2020-09-30,8,Coimbatore,On Leave
+EMP1302,Employee_302,55,Female,Operations,Analyst,106050.0,9.0,2016-09-13,10,Pune,Active
+EMP1514,Employee_514,34,Female,Marketing,HR Executive,50675.0,3.0,2018-09-24,7,Hyderabad,Active
+EMP1900,Employee_900,41,Female,Sales,Manager,79935.0,19.0,2016-06-04,5,Coimbatore,Active
+EMP1731,Employee_731,49,Male,IT,Manager,46281.0,4.0,2020-04-24,10,Chennai,Active
+EMP1844,Employee_844,24,Male,Sales,Manager,86753.0,3.0,2020-03-02,9,Bangalore,Resigned
+EMP1668,Employee_668,28,Male,Operations,Accountant,27642.0,14.0,2020-02-17,10,Chennai,Resigned
+EMP1518,Employee_518,43,Male,HR,Analyst,59998.0,14.0,2023-04-11,7,Mumbai,Active
+EMP1995,Employee_995,57,Male,Sales,Sales Executive,112999.0,6.0,2025-05-21,7,Chennai,On Leave
+EMP1046,Employee_46,27,Female,Sales,Analyst,49972.0,7.0,2015-07-14,7,Hyderabad,Active
+EMP1918,Employee_918,43,Female,Finance,Sales Executive,90774.0,1.0,2015-07-18,7,Hyderabad,Resigned
+EMP1158,Employee_158,28,Male,Sales,Sales Executive,77428.0,4.0,2019-08-26,2,Mumbai,On Leave
+EMP1752,Employee_752,50,Male,IT,Sales Executive,101162.0,3.0,2016-10-10,2,Bangalore,On Leave
+EMP1172,Employee_172,57,Female,Marketing,HR Executive,63458.0,17.0,2023-04-23,7,Bangalore,Active
+EMP1017,Employee_17,22,Male,HR,Accountant,114963.0,8.0,2022-12-03,3,Hyderabad,Resigned
+EMP1512,Employee_512,59,Male,IT,Sales Executive,61176.0,15.0,2020-03-17,8,Mumbai,Active
+EMP1049,Employee_49,34,Female,Finance,Sales Executive,106423.0,1.0,2025-10-23,5,Hyderabad,Resigned
+EMP1982,Employee_982,46,Male,Finance,Manager,63759.0,8.0,2019-01-30,3,Bangalore,Resigned
+EMP1849,Employee_849,32,Female,IT,Analyst,25136.0,13.0,2021-05-23,5,Coimbatore,Active
+EMP1516,Employee_516,25,Male,Operations,Manager,25174.0,11.0,2021-07-23,10,Pune,Active
+EMP1693,Employee_693,35,Male,HR,Accountant,49351.0,4.0,2025-02-26,8,Pune,Active
+EMP1481,Employee_481,32,Female,IT,Developer,36108.0,16.0,2019-05-10,4,Chennai,Resigned
+EMP1284,Employee_284,50,Male,IT,Sales Executive,47601.0,3.0,2024-11-21,1,Pune,Active
+EMP1850,Employee_850,21,Female,Operations,Manager,42413.0,9.0,2017-09-28,7,Bangalore,Active
+EMP1661,Employee_661,24,Male,Marketing,Accountant,61963.0,3.0,2023-03-06,2,Pune,On Leave
+EMP1226,Employee_226,55,Female,Sales,Sales Executive,118418.0,13.0,2019-05-20,10,Hyderabad,On Leave
+EMP1027,Employee_27,47,Male,Finance,Manager,70968.0,11.0,2020-08-01,8,Mumbai,Active
+EMP1790,Employee_790,45,Male,Operations,Analyst,106982.0,13.0,2019-03-07,6,Chennai,Active
+EMP1438,Employee_438,32,Male,Sales,Manager,118526.0,1.0,2019-04-14,7,Chennai,On Leave
+EMP1960,Employee_960,49,Female,Operations,HR Executive,25717.0,9.0,2015-11-21,9,Mumbai,Active
+EMP1365,Employee_365,36,Male,Sales,Analyst,32812.0,5.0,2019-04-17,4,Pune,Active
+EMP1230,Employee_230,22,Female,Sales,Analyst,118935.0,12.0,2019-01-06,9,Bangalore,Active
+EMP1038,Employee_38,24,Male,Operations,HR Executive,30355.0,20.0,2022-08-08,3,Bangalore,Active
+EMP1976,Employee_976,30,Female,HR,Analyst,102535.0,4.0,2019-02-24,3,Mumbai,Active
+EMP1375,Employee_375,43,Female,Marketing,Accountant,64464.0,20.0,2025-07-01,7,Mumbai,On Leave
+EMP1470,Employee_470,44,Male,Operations,Accountant,77874.0,16.0,2020-06-30,3,Chennai,Active
+EMP1978,Employee_978,58,Female,IT,Developer,76717.0,12.0,2024-11-27,1,Chennai,Resigned
+EMP1859,Employee_859,53,Female,Finance,Sales Executive,300000.0,13.0,2016-01-16,6,Chennai,Active
+EMP1713,Employee_713,26,Female,IT,Manager,69816.0,7.0,2024-09-30,10,Coimbatore,Active
+EMP1733,Employee_733,39,Male,HR,Developer,98788.0,13.0,2022-04-16,4,Mumbai,On Leave
+EMP1195,Employee_195,26,Male,Marketing,Sales Executive,105360.0,19.0,2025-12-04,10,Chennai,Active
+EMP1910,Employee_910,60,Male,IT,HR Executive,116057.0,6.0,2016-01-11,10,Mumbai,Active
+EMP1873,Employee_873,37,Female,it,Developer,30520.0,4.0,2015-05-23,9,Chennai,On Leave
+EMP1504,Employee_504,25,Male,Marketing,Manager,109040.0,0.0,2024-08-15,10,Hyderabad,Active
+EMP1980,Employee_980,28,Female,Sales,Developer,117910.0,17.0,2021-05-06,9,Bangalore,On Leave
+EMP1883,Employee_883,34,Female,IT,Developer,95269.0,14.0,2016-09-14,1,Pune,Active
+EMP1580,Employee_580,38,Female,HR,Developer,300000.0,7.0,2025-07-29,10,Bangalore,Active
+EMP1979,Employee_979,26,Male,it,HR Executive,27763.0,19.0,2021-02-08,1,Bangalore,Active
+EMP1163,Employee_163,44,Female,Marketing,Analyst,49968.0,17.0,2021-03-09,8,Coimbatore,Resigned
+EMP1709,Employee_709,40,Male,Sales,Manager,115009.0,8.0,2022-10-12,7,Coimbatore,Active
+EMP1153,Employee_153,47,Male,Marketing,HR Executive,119108.0,15.0,2018-02-09,7,Coimbatore,Active
+EMP1688,Employee_688,54,Male,HR,Accountant,102219.0,2.0,2019-02-15,4,Pune,Active
+EMP1707,Employee_707,30,Male,Sales,Manager,94212.0,14.0,2021-03-11,7,Coimbatore,On Leave
+EMP1763,Employee_763,48,Female,Operations,Sales Executive,54061.0,10.0,2023-11-23,2,Bangalore,Resigned
+EMP1112,Employee_112,34,Male,IT,Developer,27745.0,19.0,2024-07-12,4,Mumbai,Resigned
+EMP1227,Employee_227,27,Female,Finance,Analyst,33811.0,10.0,2025-10-13,1,Mumbai,Active
+EMP1695,Employee_695,54,Male,Marketing,Analyst,98903.0,14.0,2017-10-16,8,Coimbatore,Active
+EMP1104,Employee_104,55,Female,Operations,Accountant,117389.0,5.0,2021-04-17,5,Pune,Active
+EMP1422,Employee_422,25,Male,Marketing,Sales Executive,102116.0,19.0,2019-04-15,5,Chennai,Resigned
+EMP1420,Employee_420,52,Male,IT,Developer,113454.0,7.0,2025-07-04,4,Chennai,Active
+EMP1758,Employee_758,55,Male,IT,Manager,115605.0,5.0,2023-08-28,4,Bangalore,On Leave
+EMP1587,Employee_587,43,Female,IT,Accountant,44552.0,4.0,2019-04-03,3,Coimbatore,Active
+EMP1788,Employee_788,33,Male,Operations,Manager,98233.0,13.0,2018-04-06,6,Hyderabad,Active
+EMP1673,Employee_673,32,Female,Marketing,Developer,40438.0,2.0,2020-06-02,2,Hyderabad,Active
+EMP1120,Employee_120,29,Female,Sales,Developer,,15.0,2025-01-20,5,Chennai,Active
+EMP1054,Employee_54,22,Male,Sales,Manager,250000.0,14.0,2024-08-24,9,Coimbatore,Resigned
+EMP1152,Employee_152,21,Male,Marketing,Accountant,115306.0,19.0,2020-09-07,9,Coimbatore,Active
+EMP1404,Employee_404,46,Female,IT,Accountant,31614.0,16.0,2021-08-27,5,Coimbatore,Active
+EMP1954,Employee_954,58,Female,HR,Manager,39671.0,10.0,2023-09-06,1,Bangalore,Active
+EMP1208,Employee_208,46,Female,HR,Sales Executive,52076.0,1.0,2021-10-22,1,Coimbatore,Active
+EMP1659,Employee_659,21,Female,Operations,Developer,119767.0,17.0,2016-12-05,9,Bangalore,Active
+EMP1852,Employee_852,34,Male,Marketing,Accountant,109514.0,12.0,2022-02-02,10,Chennai,Active
+EMP1988,Employee_988,45,Male,IT,Developer,61945.0,8.0,2021-06-10,1,Bangalore,Active
+EMP1009,Employee_9,31,Male,Sales,Analyst,48478.0,1.0,2023-11-02,2,Pune,Active
+EMP1909,Employee_909,38,Male,Operations,HR Executive,33640.0,9.0,2018-04-02,3,Bangalore,Active
+EMP1037,Employee_37,38,Female,HR,Analyst,112697.0,4.0,2016-03-15,4,Bangalore,Active
+EMP1453,Employee_453,28,Female,IT,Sales Executive,52127.0,18.0,2025-05-21,10,Hyderabad,Active
+EMP1652,Employee_652,30,Female,Marketing,Developer,55109.0,16.0,2022-08-29,10,Mumbai,Resigned
+EMP1254,Employee_254,45,Female,Sales,Developer,50372.0,13.0,2020-03-27,1,Hyderabad,Active
+EMP1304,Employee_304,41,Female,Marketing,Manager,108596.0,20.0,2024-01-02,3,Coimbatore,Active
+EMP1754,Employee_754,46,Female,IT,Sales Executive,26014.0,16.0,2020-11-26,4,Pune,On Leave
+EMP1572,Employee_572,36,Male,Finance,Accountant,36254.0,11.0,2019-09-20,1,Pune,Resigned
+EMP1624,Employee_624,25,Male,Sales,Sales Executive,39256.0,5.0,2021-10-12,5,Coimbatore,On Leave
+EMP1717,Employee_717,43,Male,Operations,HR Executive,29017.0,6.0,2016-09-18,1,Hyderabad,Active
+EMP1905,Employee_905,46,Female,Operations,Accountant,109925.0,1.0,2021-12-07,9,Coimbatore,On Leave
+EMP1263,Employee_263,24,Female,HR,Sales Executive,75081.0,5.0,2018-01-03,2,Pune,Active
+EMP1611,Employee_611,40,Male,Sales,Sales Executive,80633.0,19.0,2017-03-24,7,Mumbai,Active
+EMP1298,Employee_298,57,Female,Finance,HR Executive,,11.0,2021-12-22,1,Hyderabad,Active
+EMP1415,Employee_415,56,Female,Marketing,Analyst,28832.0,10.0,2022-03-30,1,Hyderabad,On Leave
+EMP1151,Employee_151,53,Male,,Sales Executive,70671.0,10.0,2015-01-08,10,Mumbai,Active
+EMP1984,Employee_984,46,Male,Sales,Developer,50307.0,1.0,2019-06-24,3,Bangalore,Active
+EMP1641,Employee_641,26,Male,Marketing,Accountant,119876.0,13.0,2023-04-09,10,Chennai,Active
+EMP1938,Employee_938,59,Female,Sales,Developer,37816.0,16.0,2017-02-26,6,Coimbatore,Resigned
+EMP1551,Employee_551,30,Male,Sales,Manager,92391.0,1.0,2017-04-18,10,Chennai,On Leave
+EMP1799,Employee_799,60,Female,Sales,Analyst,54493.0,20.0,2020-03-22,8,Bangalore,Active
+EMP1489,Employee_489,45,Male,Sales,Accountant,45583.0,19.0,2015-08-08,4,Bangalore,Active
+EMP1711,Employee_711,25,Female,it,HR Executive,54943.0,12.0,2015-03-26,8,Coimbatore,Active
+EMP1148,Employee_148,48,Male,Sales,Analyst,104303.0,10.0,2025-12-10,4,Chennai,Active
+EMP1147,Employee_147,31,Male,Operations,Manager,53151.0,18.0,2016-12-06,4,Bangalore,Resigned
+EMP1854,Employee_854,57,Male,HR,Analyst,91197.0,4.0,2022-09-04,7,Mumbai,Resigned
+EMP1940,Employee_940,56,Female,Marketing,Developer,90048.0,10.0,2023-11-29,10,Pune,Active
+EMP1747,Employee_747,46,Male,Marketing,Developer,94906.0,2.0,2018-12-26,6,Chennai,Active
+EMP1660,Employee_660,33,Male,HR,Sales Executive,70800.0,17.0,2016-07-16,8,Mumbai,Active
+EMP1349,Employee_349,45,Male,HR,Accountant,109700.0,13.0,2024-10-24,5,Chennai,On Leave
+EMP1464,Employee_464,45,Male,Sales,Sales Executive,28273.0,5.0,2017-06-09,7,Bangalore,Active
+EMP1326,Employee_326,59,Male,IT,Analyst,29956.0,12.0,2015-11-26,5,Bangalore,Active
+EMP1187,Employee_187,52,Female,Marketing,Developer,58840.0,7.0,2021-03-08,6,Hyderabad,On Leave
+EMP1124,Employee_124,33,Male,Marketing,Sales Executive,42908.0,19.0,2025-05-23,9,Hyderabad,Active
+EMP1862,Employee_862,25,Male,Sales,Accountant,52518.0,12.0,2020-08-24,8,Chennai,Active
+EMP1609,Employee_609,29,Male,Marketing,Developer,47931.0,14.0,2021-12-03,10,Bangalore,Active
+EMP1144,Employee_144,48,Male,Sales,HR Executive,113839.0,9.0,2023-09-18,1,Mumbai,Active
+EMP1969,Employee_969,56,Female,Sales,Developer,62405.0,9.0,2015-05-24,2,Bangalore,Resigned
+EMP1198,Employee_198,36,Female,HR,Sales Executive,41241.0,0.0,2017-07-12,3,Mumbai,On Leave
+EMP1610,Employee_610,53,Female,Sales,Analyst,114116.0,1.0,2023-08-06,9,Hyderabad,Active
+EMP1280,Employee_280,47,Female,Sales,HR Executive,80388.0,6.0,2015-11-09,6,Coimbatore,Resigned
+EMP1294,Employee_294,50,Male,HR,Sales Executive,29967.0,9.0,2023-03-30,5,Mumbai,Active
+EMP1401,Employee_401,25,Male,Finance,Manager,86250.0,12.0,2019-01-18,10,Chennai,Active
+EMP1123,Employee_123,46,Female,Marketing,HR Executive,55431.0,2.0,2016-10-02,3,Mumbai,On Leave
+EMP1184,Employee_184,46,Female,Sales,Accountant,32006.0,3.0,2023-01-03,7,Pune,Active
+EMP1203,Employee_203,49,Male,Marketing,Developer,52045.0,19.0,2022-08-31,8,Mumbai,Active
+EMP1439,Employee_439,23,Male,Operations,Developer,76001.0,15.0,2018-03-30,9,Bangalore,Active
+EMP1247,Employee_247,56,Male,IT,Accountant,66316.0,6.0,2024-12-13,3,Mumbai,On Leave
+EMP1416,Employee_416,54,Male,Finance,Analyst,115811.0,20.0,2015-01-19,7,Pune,Active
+EMP1784,Employee_784,42,Male,HR,Manager,63506.0,14.0,2020-05-18,6,Bangalore,Active
+EMP1868,Employee_868,22,Female,IT,HR Executive,48199.0,5.0,2018-03-06,1,Pune,Active
+EMP1915,Employee_915,52,Female,Finance,HR Executive,68937.0,20.0,2024-10-19,3,Hyderabad,Active
+EMP1931,Employee_931,23,Male,Marketing,Manager,86744.0,10.0,2023-12-22,9,Mumbai,Active
+EMP1896,Employee_896,57,Male,IT,Accountant,74298.0,3.0,2024-10-07,4,Mumbai,Resigned
+EMP1130,Employee_130,57,Female,HR,Developer,86240.0,20.0,2016-07-19,9,Bangalore,Active
+EMP1638,Employee_638,55,Female,Finance,Sales Executive,115265.0,12.0,2020-01-29,1,Mumbai,Resigned
+EMP1403,Employee_403,36,Female,HR,Developer,52056.0,4.0,2015-09-14,2,Mumbai,Active
+EMP1895,Employee_895,31,male,HR,Accountant,72861.0,8.0,2015-03-08,4,Pune,Resigned
+EMP1778,Employee_778,57,Male,Operations,Developer,88610.0,4.0,2020-12-21,7,Coimbatore,Resigned
+EMP1736,Employee_736,38,Male,Marketing,Manager,75489.0,5.0,2017-03-23,7,Hyderabad,On Leave
+EMP1922,Employee_922,37,Female,Marketing,Analyst,53916.0,1.0,2016-07-25,5,Chennai,On Leave
+EMP1220,Employee_220,31,Female,Operations,Sales Executive,62853.0,7.0,2017-07-30,9,Chennai,Active
+EMP1642,Employee_642,48,Male,IT,Sales Executive,92054.0,13.0,2018-02-11,4,Bangalore,Active
+EMP1924,Employee_924,22,Female,Sales,Analyst,118500.0,15.0,2019-06-27,7,Pune,Active
+EMP1760,Employee_760,42,Female,Sales,Manager,48248.0,0.0,2020-11-29,3,Coimbatore,Active
+EMP1815,Employee_815,50,Male,Operations,Developer,60529.0,15.0,2020-04-19,6,Mumbai,Active
+EMP1928,Employee_928,59,Female,HR,Developer,96696.0,20.0,2025-09-29,5,Chennai,Resigned
+EMP1625,Employee_625,53,Female,Finance,Manager,112728.0,2.0,2024-02-23,2,Bangalore,On Leave
+EMP1847,Employee_847,53,Male,it,Manager,55816.0,4.0,2019-02-23,2,Bangalore,Active
+EMP1768,Employee_768,46,Male,Finance,Sales Executive,68803.0,11.0,2022-04-30,9,Pune,Active
+EMP1387,Employee_387,25,Male,Marketing,Sales Executive,70026.0,16.0,2025-03-04,4,Hyderabad,On Leave
+EMP1983,Employee_983,32,Female,IT,Sales Executive,101067.0,15.0,2022-12-27,6,Hyderabad,Active
+EMP1510,Employee_510,43,Female,Sales,Accountant,60060.0,11.0,2017-07-13,8,Pune,On Leave
+EMP1268,Employee_268,28,Female,Marketing,HR Executive,33199.0,19.0,2019-07-16,10,Coimbatore,Active
+EMP1828,Employee_828,40,Male,IT,Sales Executive,60098.0,14.0,2025-11-30,5,Pune,Resigned
+EMP1442,Employee_442,60,Female,HR,Developer,60517.0,11.0,2023-09-24,7,Hyderabad,On Leave
+EMP1497,Employee_497,29,Male,IT,Accountant,38689.0,8.0,2021-09-29,7,Hyderabad,Active
+EMP1113,Employee_113,23,Female,Sales,HR Executive,80243.0,11.0,2025-01-26,5,Coimbatore,Active
+EMP1692,Employee_692,50,Male,Marketing,HR Executive,37905.0,13.0,2025-09-21,10,Coimbatore,Active
+EMP1233,Employee_233,25,Male,Finance,Sales Executive,72153.0,20.0,2020-05-20,3,Bangalore,Active
+EMP1878,Employee_878,58,Female,HR,Manager,69049.0,12.0,2021-04-13,4,Hyderabad,On Leave
+EMP1608,Employee_608,37,Female,Sales,Developer,115239.0,20.0,2022-08-11,10,Hyderabad,On Leave
+EMP1672,Employee_672,23,Female,Operations,Developer,87260.0,11.0,2020-02-27,2,Coimbatore,Active
+EMP1374,Employee_374,46,Female,Finance,HR Executive,45700.0,8.0,2016-07-12,2,Coimbatore,Active
+EMP1992,Employee_992,56,Female,Finance,Developer,115101.0,1.0,2015-08-20,6,Pune,On Leave
+EMP1851,Employee_851,46,Female,Sales,Analyst,84500.0,6.0,2017-10-30,10,Pune,On Leave
+EMP1234,Employee_234,57,Female,Operations,Accountant,79110.0,8.0,2016-01-11,8,Bangalore,Active
+EMP1793,Employee_793,23,Male,IT,Accountant,32352.0,15.0,2018-06-02,9,Coimbatore,Active
+EMP1677,Employee_677,50,Male,Finance,Sales Executive,118027.0,19.0,2019-04-13,5,Hyderabad,Active
+EMP1318,Employee_318,22,Female,Sales,Developer,53482.0,6.0,2021-03-14,4,Coimbatore,Active
+EMP1649,Employee_649,43,Male,Sales,Analyst,119803.0,2.0,2017-09-25,2,Bangalore,Active
+EMP1411,Employee_411,57,Male,IT,Sales Executive,82149.0,17.0,2016-08-04,1,Bangalore,Active
+EMP1907,Employee_907,45,Female,IT,HR Executive,74170.0,9.0,2024-03-23,1,Mumbai,On Leave
+EMP1710,Employee_710,44,Male,Sales,Manager,93498.0,6.0,2019-11-03,4,Bangalore,Resigned
+EMP1359,Employee_359,24,Male,HR,Analyst,91668.0,12.0,2021-05-28,5,Mumbai,Active
+EMP1259,Employee_259,55,Female,Sales,Analyst,39122.0,11.0,2024-12-16,7,Coimbatore,Active
+EMP1745,Employee_745,54,Male,Marketing,Accountant,51149.0,5.0,2018-03-04,5,Bangalore,Active
+EMP1628,Employee_628,52,Female,Finance,HR Executive,70833.0,7.0,2015-05-28,3,Pune,Resigned
+EMP1633,Employee_633,42,Female,Operations,Manager,96291.0,16.0,2017-12-25,8,Coimbatore,Active
+EMP1283,Employee_283,41,Male,IT,Sales Executive,109388.0,12.0,2017-12-13,6,Bangalore,Active
+EMP1377,Employee_377,32,Female,Operations,Sales Executive,118330.0,6.0,2023-06-30,10,Mumbai,Active
+EMP1385,Employee_385,36,Male,HR,Sales Executive,88353.0,19.0,2023-07-08,9,Bangalore,On Leave
+EMP1225,Employee_225,50,Female,IT,Manager,25492.0,15.0,2018-05-28,7,Mumbai,Active
+EMP1964,Employee_964,24,Male,Sales,HR Executive,119636.0,15.0,2023-03-23,9,Pune,Active
+EMP1823,Employee_823,56,Male,Sales,Accountant,40954.0,11.0,2023-11-28,8,Chennai,Resigned
+EMP1473,Employee_473,56,Female,HR,HR Executive,52128.0,10.0,2023-11-18,2,Chennai,Active
+EMP1348,Employee_348,42,Male,Operations,Accountant,51536.0,12.0,2018-07-07,9,Bangalore,Active
+EMP1506,Employee_506,32,Male,Finance,Developer,87021.0,17.0,2024-02-05,8,Bangalore,Active
+EMP1640,Employee_640,41,Male,Finance,Accountant,119426.0,2.0,2016-05-09,10,Coimbatore,Active
+EMP1998,Employee_998,51,Female,HR,HR Executive,116881.0,18.0,2024-10-11,8,Chennai,Active
+EMP1798,Employee_798,28,Male,Marketing,Developer,79122.0,10.0,2018-06-18,1,Coimbatore,Active
+EMP1937,Employee_937,50,Male,Sales,Developer,61413.0,11.0,2024-08-06,7,Coimbatore,Active
+EMP1914,Employee_914,34,Male,Sales,HR Executive,26920.0,2.0,2018-01-02,8,Mumbai,Resigned
+EMP1620,Employee_620,45,Female,Marketing,Developer,87875.0,9.0,2019-12-21,5,Pune,Resigned
+EMP1864,Employee_864,30,Female,Operations,Developer,84848.0,,2015-07-10,1,Mumbai,Active
+EMP1812,Employee_812,24,Male,IT,Sales Executive,38652.0,17.0,2016-05-05,3,Chennai,Active
+EMP1646,Employee_646,25,Male,Finance,HR Executive,93136.0,12.0,2025-05-14,4,Hyderabad,Active
+EMP1855,Employee_855,31,Male,HR,HR Executive,117789.0,2.0,2015-10-01,5,Coimbatore,Active
+EMP1557,Employee_557,48,Male,HR,Accountant,57298.0,20.0,2020-11-30,8,Mumbai,Active
+EMP1968,Employee_968,51,Female,Marketing,Sales Executive,68949.0,9.0,2024-04-12,5,Bangalore,Active
+EMP1578,Employee_578,39,Female,Operations,HR Executive,41199.0,7.0,2016-02-24,10,Hyderabad,Active
+EMP1796,Employee_796,42,Female,HR,Developer,53927.0,2.0,2015-05-26,7,Coimbatore,On Leave
+EMP1086,Employee_86,31,Male,Marketing,HR Executive,45132.0,0.0,2016-09-07,2,Hyderabad,Active
+EMP1243,Employee_243,53,Male,Operations,Sales Executive,101221.0,14.0,invalid_date,5,Coimbatore,Active
+EMP1699,Employee_699,35,Male,IT,Accountant,103513.0,15.0,2022-01-31,6,Bangalore,On Leave
+EMP1160,Employee_160,29,Male,Operations,Sales Executive,74067.0,18.0,2019-02-07,8,Bangalore,Resigned
+EMP1525,Employee_525,37,Male,Marketing,Manager,58919.0,9.0,2024-05-13,3,Mumbai,Active
+EMP1036,Employee_36,59,Male,,Sales Executive,92055.0,9.0,2018-10-11,6,Hyderabad,Resigned
+EMP1541,Employee_541,37,Male,Sales,Developer,52962.0,11.0,2018-09-18,1,Coimbatore,Active
+EMP1171,Employee_171,23,Female,HR,Developer,107152.0,10.0,2023-09-09,2,Chennai,Resigned
+EMP1655,Employee_655,37,Male,Marketing,Manager,59510.0,4.0,2022-02-17,1,Hyderabad,Active
+EMP1899,Employee_899,55,Female,Sales,Manager,28453.0,4.0,2022-09-16,9,Hyderabad,Active
+EMP1866,Employee_866,33,Female,Marketing,Accountant,26700.0,19.0,2024-11-01,5,Bangalore,Active
+EMP1856,Employee_856,56,Female,Marketing,HR Executive,117420.0,14.0,2017-08-13,10,Pune,Active
+EMP1953,Employee_953,53,Male,Operations,Sales Executive,58272.0,17.0,2022-07-08,7,Chennai,Active
+EMP1734,Employee_734,41,Male,HR,Manager,52586.0,11.0,2017-07-07,5,Pune,Active
+EMP1096,Employee_96,29,Male,Operations,HR Executive,61021.0,17.0,2017-02-23,5,Pune,Active
+EMP1564,Employee_564,33,Male,Operations,HR Executive,89887.0,14.0,2019-07-04,5,Hyderabad,Resigned
+EMP1241,Employee_241,40,Male,HR,Manager,98402.0,14.0,2025-11-23,1,Mumbai,On Leave
+EMP1743,Employee_743,32,Female,IT,HR Executive,116785.0,9.0,2016-03-10,9,Mumbai,Active
+EMP1575,Employee_575,57,Male,HR,Developer,71289.0,17.0,2018-10-23,6,Bangalore,Active
+EMP1691,Employee_691,38,Male,Marketing,Sales Executive,27093.0,5.0,2015-10-21,2,Mumbai,Resigned
+EMP1461,Employee_461,31,Male,HR,Manager,70046.0,7.0,2021-08-22,2,Bangalore,Resigned
+EMP1554,Employee_554,59,Female,HR,HR Executive,60531.0,19.0,2024-07-28,10,Bangalore,Resigned
+EMP1887,Employee_887,32,Female,HR,Developer,114037.0,18.0,2022-09-20,6,Coimbatore,Active
+EMP1207,Employee_207,39,Male,Sales,Sales Executive,46625.0,12.0,2018-05-15,6,Bangalore,Resigned
+EMP1393,Employee_393,36,Female,Sales,Developer,55908.0,16.0,2020-11-25,5,Chennai,Resigned
+EMP1795,Employee_795,56,Male,Operations,Manager,113835.0,9.0,2019-04-04,7,Bangalore,Active
+EMP1398,Employee_398,48,Male,HR,Developer,35775.0,7.0,2023-08-28,10,Bangalore,Resigned
+EMP1767,Employee_767,22,Female,Finance,Accountant,110947.0,8.0,2025-06-26,2,Bangalore,Active
+EMP1884,Employee_884,31,Male,Sales,Sales Executive,55954.0,3.0,2025-07-08,4,Mumbai,On Leave
+EMP1218,Employee_218,60,Female,Finance,Analyst,69254.0,10.0,2019-01-11,4,Pune,On Leave
+EMP1005,Employee_5,41,Male,Operations,Accountant,64129.0,19.0,2024-03-10,4,Coimbatore,Resigned
+EMP1769,Employee_769,34,Female,Sales,HR Executive,44296.0,13.0,2019-06-16,4,Pune,Active
+EMP1643,Employee_643,37,Female,Sales,Sales Executive,55949.0,14.0,2023-09-18,1,Mumbai,Active
+EMP1906,Employee_906,24,Male,Sales,Analyst,61320.0,12.0,2024-10-20,3,Bangalore,Resigned
+EMP1613,Employee_613,48,Male,Marketing,Accountant,76913.0,0.0,2017-09-20,9,Mumbai,Active
+EMP1739,Employee_739,41,Female,HR,Accountant,92087.0,14.0,2023-08-26,8,Chennai,Active
+EMP1547,Employee_547,51,Male,Finance,Manager,35578.0,3.0,2024-04-27,9,Pune,Active
+EMP1726,Employee_726,45,Male,IT,Developer,79318.0,,2016-05-05,2,Mumbai,On Leave
+EMP1684,Employee_684,22,Female,Marketing,HR Executive,103854.0,6.0,2021-09-23,9,Bangalore,Active
+EMP1099,Employee_99,54,Female,Operations,Manager,37828.0,13.0,2018-02-07,4,Coimbatore,On Leave
+EMP1805,Employee_805,26,Female,Marketing,Accountant,50398.0,11.0,2020-08-10,7,Bangalore,Active
+EMP1728,Employee_728,52,Female,HR,Analyst,113056.0,1.0,2020-02-22,7,Hyderabad,Active
+EMP1574,Employee_574,31,Male,Finance,Sales Executive,36442.0,3.0,2019-02-26,6,Pune,Active
+EMP1407,Employee_407,59,Female,IT,Developer,68884.0,17.0,2022-03-31,1,Bangalore,Resigned
+EMP1503,Employee_503,36,Male,Operations,Manager,109444.0,7.0,2016-04-24,1,Hyderabad,Active
+EMP1048,Employee_48,55,Male,Finance,Sales Executive,105769.0,12.0,2016-04-24,10,Chennai,Resigned
+EMP1033,Employee_33,27,Female,Marketing,Sales Executive,50599.0,2.0,2021-03-03,1,Hyderabad,On Leave
+EMP1780,Employee_780,30,Female,IT,Sales Executive,108961.0,19.0,2021-04-15,1,Chennai,Active
+EMP1840,Employee_840,46,Male,Marketing,Accountant,116683.0,20.0,2025-03-06,4,Bangalore,Resigned
+EMP1201,Employee_201,26,Male,Sales,Manager,60063.0,11.0,2021-10-23,6,Pune,Resigned
+EMP1135,Employee_135,56,Female,Marketing,HR Executive,80668.0,16.0,2022-01-19,6,Hyderabad,On Leave
+EMP1028,Employee_28,48,Male,HR,Sales Executive,42508.0,6.0,2019-01-17,3,Pune,Resigned
+EMP1889,Employee_889,55,Female,IT,Analyst,115226.0,5.0,2025-02-09,1,Coimbatore,Resigned
+EMP1231,Employee_231,21,Female,IT,Accountant,97010.0,14.0,2020-09-30,8,Mumbai,Active
+EMP1490,Employee_490,42,Male,Marketing,Sales Executive,110774.0,3.0,2015-06-28,5,Coimbatore,Active
+EMP1773,Employee_773,38,Female,Marketing,Accountant,43257.0,8.0,2020-06-08,4,Bangalore,Resigned
+EMP1379,Employee_379,21,male,Operations,Manager,107534.0,12.0,2016-02-25,2,Chennai,Resigned
+EMP1289,Employee_289,39,Female,HR,HR Executive,61777.0,1.0,2021-07-09,10,Chennai,Active
+EMP1419,Employee_419,39,Female,HR,Analyst,86240.0,16.0,2022-04-08,8,Hyderabad,Resigned
+EMP1675,Employee_675,25,Female,HR,Manager,27994.0,2.0,2018-08-05,6,Chennai,Active
+EMP1392,Employee_392,46,Female,Marketing,Sales Executive,39270.0,12.0,2017-12-25,9,Bangalore,Resigned
+EMP1593,Employee_593,28,Male,Operations,Analyst,110024.0,4.0,2022-05-29,6,Bangalore,Active
+EMP1499,Employee_499,48,Female,IT,Accountant,58276.0,13.0,2022-08-06,5,Mumbai,Active
+EMP1139,Employee_139,42,Male,IT,Manager,81547.0,2.0,2020-06-09,6,Hyderabad,Resigned
+EMP1063,Employee_63,34,Male,Sales,Analyst,48554.0,5.0,2021-09-09,8,Bangalore,Resigned
+EMP1472,Employee_472,55,Male,Marketing,Sales Executive,37297.0,18.0,2019-01-13,8,Bangalore,Active
+EMP1648,Employee_648,23,Female,IT,Developer,86842.0,20.0,2015-02-04,3,Bangalore,Active
+EMP1129,Employee_129,50,Male,Finance,Developer,76955.0,15.0,2020-05-12,10,Coimbatore,Resigned
+EMP1987,Employee_987,38,Male,IT,Accountant,62548.0,7.0,2021-11-19,5,Coimbatore,Active
+EMP1521,Employee_521,38,Male,Sales,Analyst,100225.0,13.0,2018-11-20,10,Coimbatore,Active
+EMP1839,Employee_839,28,Male,Operations,Developer,73516.0,3.0,2015-02-14,4,Coimbatore,On Leave
+EMP1973,Employee_973,25,Female,Operations,Manager,68442.0,8.0,2021-06-29,2,Bangalore,Resigned
+EMP1065,Employee_65,35,Male,Operations,Analyst,80621.0,2.0,2018-09-22,7,Pune,Active
+EMP1813,Employee_813,50,Male,IT,Analyst,30103.0,2.0,2024-09-23,6,Pune,On Leave
+EMP1015,Employee_15,23,Male,IT,Accountant,54796.0,3.0,2025-11-21,8,Hyderabad,Active
+EMP1157,Employee_157,26,Male,IT,Manager,56131.0,1.0,2021-02-13,7,Pune,On Leave
+EMP1041,Employee_41,29,Female,Operations,Developer,63342.0,9.0,2023-03-08,8,Hyderabad,Active
+EMP1493,Employee_493,56,Female,IT,Developer,114285.0,3.0,2015-09-22,5,Coimbatore,On Leave
+EMP1380,Employee_380,54,Female,Sales,Analyst,38869.0,12.0,2019-04-02,10,Coimbatore,Active
+EMP1188,Employee_188,24,Male,HR,Accountant,57430.0,11.0,2020-07-28,10,Chennai,Resigned
+EMP1764,Employee_764,43,Female,Sales,Accountant,49170.0,12.0,2021-07-18,3,Chennai,Active
+EMP1217,Employee_217,38,Female,HR,Accountant,92468.0,7.0,2024-02-29,6,Bangalore,Active
+EMP1792,Employee_792,30,Male,IT,Analyst,71218.0,19.0,2018-10-10,1,Bangalore,Active
+EMP1053,Employee_53,24,Male,IT,Sales Executive,59773.0,10.0,2017-08-22,5,Hyderabad,Active
+EMP1879,Employee_879,55,Male,IT,Manager,38917.0,10.0,2024-02-15,2,Hyderabad,Resigned
+EMP1338,Employee_338,36,Female,Sales,Developer,37602.0,6.0,2019-11-07,2,Chennai,On Leave
+EMP1749,Employee_749,29,Male,IT,Analyst,32610.0,10.0,2021-07-22,10,Chennai,On Leave
+EMP1720,Employee_720,31,Female,HR,Developer,118863.0,2.0,2023-03-06,6,Coimbatore,Active
+EMP1725,Employee_725,24,Female,IT,Sales Executive,87943.0,4.0,2019-06-01,5,Hyderabad,On Leave
+EMP1296,Employee_296,26,Male,Operations,Developer,45022.0,13.0,2019-11-09,7,Bangalore,On Leave
+EMP1702,Employee_702,25,Male,Marketing,Accountant,32674.0,12.0,2016-11-15,10,Coimbatore,Active
+EMP1252,Employee_252,45,Male,IT,Developer,83627.0,9.0,2016-08-22,8,Coimbatore,Active
+EMP1727,Employee_727,23,Female,IT,Manager,85128.0,6.0,2025-03-18,2,Bangalore,Active
+EMP1462,Employee_462,49,Female,Sales,Accountant,,5.0,2024-11-03,10,Chennai,Active
+EMP1456,Employee_456,30,Female,IT,Manager,115421.0,10.0,2018-12-15,2,Coimbatore,On Leave
+EMP1627,Employee_627,38,Male,Marketing,Accountant,,15.0,2024-11-17,3,Mumbai,Resigned
+EMP1816,Employee_816,51,Male,Sales,Analyst,43452.0,5.0,2019-10-28,2,Chennai,Active
+EMP1863,Employee_863,43,Female,Marketing,Analyst,76925.0,9.0,2016-05-30,1,Chennai,Resigned
+EMP1270,Employee_270,23,Female,IT,Accountant,300000.0,4.0,2024-05-12,1,Coimbatore,Active
+EMP1202,Employee_202,36,Male,Operations,Manager,101721.0,7.0,2015-07-30,4,Mumbai,Active
+EMP1162,Employee_162,53,Male,Finance,Sales Executive,46607.0,11.0,2023-12-20,1,Bangalore,Active
+EMP1556,Employee_556,33,Female,IT,Developer,29986.0,,2024-07-11,4,Chennai,Active
+EMP1730,Employee_730,47,Female,Marketing,Manager,30039.0,12.0,2024-01-10,10,Mumbai,Active
+EMP1402,Employee_402,32,Female,Sales,Accountant,41673.0,6.0,2021-04-19,1,Pune,Active
+EMP1703,Employee_703,49,Male,Sales,Manager,75516.0,12.0,2024-12-08,5,Hyderabad,On Leave
+EMP1477,Employee_477,44,Male,HR,Developer,113499.0,1.0,2023-06-24,6,Mumbai,Active
+EMP1822,Employee_822,57,Female,Operations,Developer,88059.0,9.0,2016-06-11,5,Mumbai,Active
+EMP1772,Employee_772,43,Female,HR,HR Executive,111664.0,16.0,2023-03-04,10,Pune,Resigned
+EMP1106,Employee_106,42,Female,IT,Developer,45307.0,1.0,2021-05-27,10,Hyderabad,Active
+EMP1566,Employee_566,45,Female,Operations,Sales Executive,42266.0,20.0,2023-03-19,7,Chennai,Resigned
+EMP1390,Employee_390,23,Male,HR,Manager,116502.0,0.0,2018-07-25,8,Bangalore,Active
+EMP1002,Employee_2,49,Female,Sales,Manager,27224.0,13.0,2016-07-22,7,Bangalore,Resigned
+EMP1946,Employee_946,53,Female,Finance,Sales Executive,35655.0,1.0,2019-07-16,3,Pune,Active
+EMP1993,Employee_993,24,Male,Operations,Accountant,27382.0,15.0,2019-09-11,2,Chennai,Resigned
+EMP1562,Employee_562,21,Male,Operations,Sales Executive,52798.0,13.0,2019-02-23,5,Chennai,Resigned
+EMP1081,Employee_81,29,Female,HR,Sales Executive,87507.0,5.0,2025-07-11,1,Mumbai,Active
+EMP1206,Employee_206,56,Female,HR,HR Executive,109703.0,12.0,2017-02-18,1,Bangalore,Active
+EMP1035,Employee_35,29,Male,Finance,HR Executive,91914.0,3.0,2022-12-05,8,Mumbai,Active
+EMP1776,Employee_776,35,Female,Operations,Sales Executive,45025.0,18.0,2019-03-02,10,Pune,Active
+EMP1509,Employee_509,56,Female,Sales,Analyst,67291.0,0.0,2025-07-21,6,Bangalore,Active
+EMP1428,Employee_428,48,Female,Finance,Manager,47318.0,20.0,2019-03-28,1,Pune,Resigned
+EMP1455,Employee_455,46,Female,Operations,Analyst,53884.0,6.0,2016-02-26,8,Mumbai,Active
+EMP1367,Employee_367,50,Male,Sales,Analyst,95093.0,2.0,2016-01-12,1,Pune,Active
+EMP1092,Employee_92,25,Male,IT,Sales Executive,56881.0,2.0,2017-05-14,8,Coimbatore,Active
+EMP1340,Employee_340,32,Female,Sales,Sales Executive,111120.0,7.0,2018-04-26,2,Pune,Active
+EMP1898,Employee_898,50,Female,IT,Sales Executive,69942.0,17.0,2024-05-30,6,Hyderabad,Active
+EMP1565,Employee_565,48,Male,Operations,HR Executive,44477.0,13.0,2019-10-02,2,Bangalore,Resigned
+EMP1346,Employee_346,-5,Female,HR,Accountant,89503.0,5.0,2016-05-16,1,Bangalore,Resigned
+EMP1777,Employee_777,45,Female,HR,Manager,29458.0,14.0,2015-10-24,1,Pune,On Leave
+EMP1242,Employee_242,44,Female,HR,HR Executive,40449.0,7.0,2025-03-26,4,Bangalore,On Leave
+EMP1014,Employee_14,44,Female,Finance,Developer,40372.0,15.0,2023-02-12,1,Pune,Active
+EMP1316,Employee_316,42,Male,Operations,Sales Executive,78574.0,14.0,2024-04-14,9,Mumbai,Active
+EMP1601,Employee_601,46,Male,Marketing,Manager,71220.0,11.0,2018-03-24,9,Mumbai,Active
+EMP1388,Employee_388,42,Male,HR,Analyst,,3.0,2022-02-02,2,Chennai,Resigned
+EMP1274,Employee_274,42,Male,Marketing,Accountant,81746.0,11.0,2021-10-12,9,Hyderabad,Active
+EMP1167,Employee_167,44,Male,HR,Sales Executive,103257.0,19.0,2019-08-30,5,Bangalore,Active
+EMP1841,Employee_841,25,Female,Operations,Analyst,87061.0,7.0,2020-08-30,4,Chennai,Active
+EMP1741,Employee_741,21,Male,Operations,Accountant,59397.0,8.0,2018-08-19,3,Bangalore,Resigned
+EMP1647,Employee_647,58,Female,Sales,Accountant,89619.0,16.0,2018-03-16,10,Hyderabad,Active
+EMP1819,Employee_819,23,Male,HR,Developer,89450.0,14.0,2020-04-26,7,Mumbai,Active
+EMP1485,Employee_485,55,Male,Sales,Sales Executive,27610.0,1.0,2025-11-25,8,Pune,Active
+EMP1991,Employee_991,32,Male,,Accountant,76756.0,9.0,2017-10-10,7,Mumbai,Active
+EMP1505,Employee_505,55,Female,Sales,Analyst,46644.0,9.0,2018-09-15,5,Mumbai,Active
+EMP1832,Employee_832,35,Female,Operations,Accountant,82620.0,13.0,2025-06-16,5,Pune,On Leave
+EMP1244,Employee_244,44,Female,IT,Sales Executive,114080.0,20.0,2020-03-16,6,Chennai,Active
+EMP1567,Employee_567,53,Female,Finance,Analyst,111328.0,4.0,2024-06-02,4,Pune,Active
+EMP1876,Employee_876,35,Female,Marketing,Manager,66605.0,18.0,2025-08-27,6,Hyderabad,Active
+EMP1563,Employee_563,23,Female,HR,HR Executive,116649.0,19.0,2018-05-16,6,Hyderabad,Active
+EMP1963,Employee_963,49,Male,Marketing,HR Executive,74810.0,16.0,2020-01-25,8,Chennai,Active
+EMP1687,Employee_687,58,Male,Marketing,Accountant,26920.0,0.0,2015-05-07,10,Hyderabad,Active
+EMP1958,Employee_958,44,Female,Finance,Manager,68954.0,11.0,2022-12-09,4,Hyderabad,Active
+EMP1190,Employee_190,37,Male,Finance,Accountant,57983.0,,2025-08-17,4,Chennai,On Leave
+EMP1783,Employee_783,59,Male,HR,Accountant,118809.0,15.0,2017-06-20,10,Chennai,Active
+EMP1700,Employee_700,50,Female,Sales,HR Executive,44874.0,15.0,2016-02-23,1,Chennai,Active
+EMP1476,Employee_476,52,Female,Operations,Developer,112599.0,18.0,2018-12-20,2,Bangalore,Active
+EMP1682,Employee_682,41,Male,it,Developer,85272.0,7.0,2018-04-15,7,Bangalore,Active
+EMP1511,Employee_511,36,Female,IT,Sales Executive,26538.0,7.0,2020-12-10,10,Bangalore,Resigned
+EMP1059,Employee_59,46,Female,Marketing,Analyst,110896.0,11.0,2025-06-11,4,Mumbai,Active
+EMP1475,Employee_475,59,Male,Operations,Accountant,119019.0,20.0,2020-12-21,3,Hyderabad,On Leave
+EMP1561,Employee_561,59,Female,Finance,Developer,41835.0,14.0,2021-05-02,2,Chennai,Active
+EMP1857,Employee_857,33,male,Marketing,Analyst,57854.0,3.0,2022-04-01,10,Bangalore,Active
+EMP1748,Employee_748,47,male,Sales,Manager,30283.0,9.0,2021-07-15,3,Bangalore,Resigned
+EMP1253,Employee_253,55,Female,Finance,Sales Executive,91155.0,18.0,2016-12-20,10,Mumbai,Active
+EMP1022,Employee_22,41,Female,Sales,Analyst,103356.0,19.0,2016-11-04,10,Bangalore,Active
+EMP1314,Employee_314,44,Female,Finance,HR Executive,-10000.0,14.0,2016-05-20,2,Hyderabad,Resigned
+EMP1460,Employee_460,24,Male,Sales,Developer,82615.0,20.0,2025-01-26,8,Bangalore,On Leave
+EMP1161,Employee_161,57,Male,Sales,Analyst,83585.0,20.0,2024-05-28,8,Hyderabad,Active
+EMP1277,Employee_277,58,Female,HR,Sales Executive,70242.0,13.0,2024-11-20,6,Coimbatore,On Leave
+EMP1956,Employee_956,51,Female,Sales,Analyst,101274.0,12.0,2025-01-06,4,Hyderabad,On Leave
+EMP1192,Employee_192,44,Male,HR,Manager,100451.0,13.0,2025-06-20,4,Mumbai,Active
+EMP1386,Employee_386,59,Female,IT,Accountant,107190.0,12.0,2024-09-30,1,Bangalore,Active
+EMP1806,Employee_806,57,Female,Sales,HR Executive,,9.0,2020-07-12,8,Chennai,On Leave
+EMP1414,Employee_414,25,male,Operations,Manager,57252.0,12.0,2025-03-24,3,Bangalore,Active
+EMP1492,Employee_492,39,Male,Marketing,Developer,92450.0,10.0,2016-03-08,7,Mumbai,Active
+EMP1344,Employee_344,54,Male,Sales,Developer,89789.0,16.0,2016-10-05,6,Mumbai,Active
+EMP1770,Employee_770,27,Female,it,Analyst,116829.0,0.0,2024-07-04,9,Pune,Active
+EMP1309,Employee_309,38,Male,Marketing,Accountant,65695.0,17.0,2019-05-02,9,Mumbai,Active
+EMP1662,Employee_662,21,Male,Sales,Manager,79330.0,16.0,2023-01-13,9,Pune,On Leave
+EMP1131,Employee_131,43,Female,Finance,HR Executive,45093.0,2.0,2018-09-29,2,Pune,Active
+EMP1664,Employee_664,52,Female,Marketing,Sales Executive,43689.0,13.0,2025-03-23,10,Coimbatore,Resigned
+EMP1872,Employee_872,29,Male,Marketing,Accountant,79316.0,17.0,2015-09-29,10,Mumbai,Active
+EMP1100,Employee_100,53,Male,Operations,Accountant,86610.0,7.0,2021-02-15,5,Coimbatore,Active
+EMP1373,Employee_373,57,Male,HR,Accountant,72857.0,19.0,2024-05-19,5,Chennai,On Leave
+EMP1088,Employee_88,28,Male,Finance,Sales Executive,61609.0,0.0,2020-03-29,7,Coimbatore,Active
+EMP1459,Employee_459,27,Male,IT,Sales Executive,40088.0,20.0,2021-08-08,4,Coimbatore,Active
+EMP1331,Employee_331,44,Female,Marketing,Manager,77160.0,5.0,2016-01-16,10,Bangalore,Active
+EMP1215,Employee_215,60,Male,HR,Accountant,56433.0,7.0,2022-04-11,7,Bangalore,Active
+EMP1467,Employee_467,-5,Male,Operations,Analyst,103077.0,18.0,2017-05-30,2,Hyderabad,On Leave
+EMP1122,Employee_122,35,Male,Finance,Manager,45447.0,16.0,2018-06-24,4,Chennai,On Leave
+EMP1615,Employee_615,33,Male,Sales,Manager,50991.0,4.0,2015-11-19,8,Chennai,On Leave
+EMP1021,Employee_21,22,Male,Operations,Accountant,96368.0,6.0,2025-11-25,3,Hyderabad,On Leave
+EMP1701,Employee_701,37,Female,Finance,Analyst,75931.0,3.0,2016-03-19,4,Chennai,On Leave
+EMP1072,Employee_72,38,Male,Sales,Manager,99083.0,12.0,2019-12-29,4,Pune,On Leave
+EMP1107,Employee_107,47,Male,Operations,Manager,44611.0,7.0,2019-07-27,1,Chennai,Active
+EMP1271,Employee_271,37,Female,Operations,Sales Executive,35211.0,7.0,2019-01-01,5,Chennai,Resigned
+EMP1861,Employee_861,30,Female,Finance,Developer,31968.0,18.0,2016-04-23,5,Mumbai,Active
+EMP1436,Employee_436,53,Female,IT,Manager,51564.0,2.0,2017-04-23,6,Bangalore,Active
+EMP1103,Employee_103,57,Male,Marketing,Developer,40193.0,12.0,2025-11-24,3,Mumbai,On Leave
